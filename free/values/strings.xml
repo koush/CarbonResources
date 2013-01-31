@@ -131,5 +131,5 @@
     <string name="enable_ptp">Enable PTP</string>
     <string name="status_ptp_off">Your Android USB is in MTP mode. You may need to switch it to PTP.</string>
     <string name="ptp_info">In your Android Settings, you will find a setting to enable Camera (PTP) mode.\n\nEnable the setting, then press back to return to Carbon.</string>
-    <string name="not_admin_info">Due to limitations in Android\'s backup mechanism, Carbon only works with the primary user of the device.\n\nCarbon will now exit. Please open Carbon with the primary user!</string>
+    <string name="not_admin_info">Android\'s backup mechanism only works with the primary device user.\n\nCarbon will now exit. Please open Carbon with the primary user!</string>
 </resources>
