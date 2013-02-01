@@ -129,7 +129,7 @@
     <string name="rate_carbon">Calificar Carbon</string>
     <string name="swipe_up_info">Pista:\n\nIntenta desplazar hacía arriba el panel inferior para revelar más opciones, como Seleccionar Todo.</string>
     <string name="enable_ptp">Habilitar PTP</string>
-    <string name="status_ptp_pff">Tu Android está en modo MTP. Necesitas cambiarlo a PTP.</string>
+    <string name="status_ptp_off">Tu Android está en modo MTP. Necesitas cambiarlo a PTP.</string>
     <string name="ptp_info">En los ajustes de tu Android, encontrarás un ajuste para habilitar el modo Cámara (PTP).\n\nHabilita el ajuste, y presiona atras para volver a Carbon.</string>
     <string name="not_admin_info">El mecanismo de respaldo de Android sólo funciona con el dispositivo principal del usuario.\n\nCarbon se cerrará en este momento. Por favor abre Carbon con el dispositivo principal.</string>
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carbon Premium</string>
+
+    <string name="install_free_text">Carbon Premium je len licenčný kľúč pre Carbon. Musíte nainštalovať aj bezplatnú verziu z Google Play. Táto ikona zmizne, keď bude nainštalovaná bezplatná verzia. Vďaka, že ste Premium užívateľ! :)</string>
+    <string name="thanks">Carbon Premium je len licenčný kľúč pre Carbon. Tiež musíte mať bezplatnú verziu vo Vašom zariadení. Táto ikona sa sama odstráni po budúcom reštarte Vašej domovskej aplikácie. Vďaka!</string>
+    
+</resources>
