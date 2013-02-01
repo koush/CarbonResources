@@ -61,7 +61,7 @@
     <string name="delete_backup_confirm">¿Eliminar respaldo? Esto no se puede deshacer.</string>
     <string name="delete_backup_error">Un error ocurrió mientras se eliminaba tu respaldo. Un log del error ha sido enviado a ClockworkMod.</string>
     <string name="root">Root</string>
-    <string name="root_permissions">Carbon verificará permisos de root. Si el dialogo de permisos de root aparece, por favor establecelo en \"siempre permitir\".</string>
+    <string name="root_permissions">Carbon verificará permisos de root. Si el dialogo de permisos de root aparece, por favor establecelo en \"permitir siempre\".</string>
     <string name="android_backup">Respaldo de Android</string>
     <string name="dropbox_login_error">No se pudo ingresar a Dropbox.</string>
     <string name="dropbox_login_complete">Has ingresado a tu cuenta Dropbox.</string>
@@ -97,7 +97,7 @@
     <string name="connect_success">¡Respaldo de aplicaciones Android habilitada!\n\nTen en cuenta: si apagas tu Android, necesitas reconectarte a Carbon Desktop para habilitar el respaldo de aplicaciones de nuevo.</string>
     <string name="no_logins">No fue posible ingresar. No has configurado ninguna cuenta Google.</string>
     <string name="superuser">Superusuario</string>
-    <string name="superuser_bleh">Superusuario está desactualizado. Es recomendado que actualices a SuperSU.\n\nPuedes encontrar SuperSU en el Android Market.</string>
+    <string name="superuser_bleh">Superusuario está desactualizado. Es recomendado que actualices a SuperSU.\n\nPuedes encontrar SuperSU en Google Play.</string>
     <string name="schedule">Programar</string>
     <string name="buy_premium">Comprar Premium</string>
     <string name="purchase_options">Opciones de compra</string>
@@ -113,7 +113,7 @@
     <string name="recover_purchase_error">Un error ocurrió mientras recuperabamos tu compra.</string>
     <string name="no_license_found_email">No se encontró ninguna licencia para ese email de PayPal.</string>
     <string name="hide">Esconder</string>
-    <string name="hide_message">¿Deseas esconder %s? Será movidoal final de la lista de aplicaciones y no será seleccionado por "Selecionar Todo".</string>
+    <string name="hide_message">¿Deseas esconder %s? Será movido al final de la lista de aplicaciones y no será seleccionado por "Selecionar Todo".</string>
     <string name="unhide">Mostrar</string>
     <string name="unhide_message">%s ya se muestra.</string>
     <string name="hidden">Escondido</string>
@@ -127,7 +127,7 @@
     <string name="buy_premium_summary">Compra Carbon Premium para acceder a todas las características de Carbon!</string>
     <string name="restore_complete_more_rate">La restauración de tus aplicaciones fue completada.\n\nSi tienes un momento, apreciaría que calificaras Carbon en Google Play</string>
     <string name="rate_carbon">Calificar Carbon</string>
-    <string name="swipe_up_info">Pista:\n\nIntenta desplazar hacía arriba el panel inferior para revelar más opciones, como Seleccionar Todo.</string>
+    <string name="swipe_up_info">Pista:\n\nIntenta desplazar hacia arriba el panel inferior para revelar más opciones, como Seleccionar Todo.</string>
     <string name="enable_ptp">Habilitar PTP</string>
     <string name="status_ptp_pff">Tu Android está en modo MTP. Necesitas cambiarlo a PTP.</string>
     <string name="ptp_info">En los ajustes de tu Android, encontrarás un ajuste para habilitar el modo Cámara (PTP).\n\nHabilita el ajuste, y presiona atras para volver a Carbon.</string>
