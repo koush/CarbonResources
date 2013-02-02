@@ -134,4 +134,6 @@
     <string name="not_admin_info">Android\'s backup mechanism only works with the primary device user.\n\nCarbon will now exit. Please open Carbon with the primary user!</string>
     <string name="wifi_only">Backup only on WiFi</string>
     <string name="plugged_in">Backup only when charging</string>
+    <string name="set_password">Set Password</string>
+    <string name="desktop_backup_password_info">An error occurred while performing your app backup.\n\nThis error may be caused by having a Desktop Backup Password.\n\nPlease verify your Desktop Backup Password is a blank password, then press back to return to Carbon.</string>
 </resources>
