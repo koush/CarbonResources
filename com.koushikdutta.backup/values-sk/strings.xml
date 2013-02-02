@@ -132,4 +132,8 @@
     <string name="status_ptp_off">Váš Android USB je v režime MTP. Možno budete musieť prepnúť do PTP.</string>
     <string name="ptp_info">Vo Vašich Android nastaveniach nájdete nastavenie pre povolenie režimu Fotoaparát (PTP).\n\nPovoľte nastavenie a potom stlačte späť pre návrat do Carbonu.</string>
     <string name="not_admin_info">Zálohovací Android mechanizmus pracuje len s primárnym užívateľom zariadenia.\n\nCarbon sa teraz ukončí. Prosím otvrte Carbon ako primárny používateľ!</string>
+    <string name="wifi_only">Zálohovať len na WiFi</string>
+    <string name="plugged_in">Zálohovať len pri nabíjaní</string>
+    <string name="set_password">Nastaviť heslo</string>
+    <string name="desktop_backup_password_info">Došlo k chybe pri zálohovaní Vaších aplikácií.\n\nTáto chyba mohla byť spôsobená tým, že máte nastavené heslo Desktop zálohovania.\n\nProsím overte či heslo Desktop zálohovania je prázdne a potom stlačte späť pre návrat do Carbonu.</string>
 </resources>
