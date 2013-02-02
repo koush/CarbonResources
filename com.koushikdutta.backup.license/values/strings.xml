@@ -3,7 +3,7 @@
 
     <string name="app_name">Carbon Premium</string>
 
-    <string name="install_free_text">Carbon Premium is just the License Key for Carbon. You must also install the Free version found on the Google Play. This icon will disappear when the free version is installed. Thanks for being a Premium user! :)</string>
-    <string name="thanks">Carbon Premium is just the License Key for Carbon. You must keep the Free version installed on your phone as well. This icon will remove itself from your application tray the next time your Home application restarts. Thanks!</string>
+    <string name="install_free_text">A Carbon Premium csak a Carbon licenc kulcsot tartalmazza. Mindenképpen telepíteni kell a Google Play áruházban található ingyenes verziót. Az ingyenes verzió telepítése után ez az ikon el fog tűnni. Köszönjük, hogy Premium felhasználó vagy! :)</string>
+    <string name="thanks">A Carbon Premium csak egy licenc kulcs a Carbon alkalmazáshoz. Az ingyenes verziót mindenképpen tartsd telepítve a telefonodon. Ez az ikon a következő programindító újraindítása után eltávolítja magát. Köszönjük!</string>
     
 </resources>
