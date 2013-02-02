@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carbon Premium</string>
+
+    <string name="install_free_text">Carbon Premium ist nur der Lizenzschlüssel für Carbon. Du musst auch Carbon aus Google Play installieren. Dieses Symbol verschwindet wenn Du Carbon installiert hast. Danke das du Carbon Premium benutzt! :)</string>
+    <string name="thanks">Carbon Premium ist nur der Lizenzschlüssel für Carbon. Du musst auch Carbon aus Google Play installiert lassen. Dieses Symbol verschwindet sobald dein Luncher das nächste mal startet. Danke!</string>
+    
+</resources>
