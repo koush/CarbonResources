@@ -136,4 +136,8 @@
     <string name="plugged_in">Zálohovať len pri nabíjaní</string>
     <string name="set_password">Nastaviť heslo</string>
     <string name="desktop_backup_password_info">Došlo k chybe pri zálohovaní Vaších aplikácií.\n\nTáto chyba mohla byť spôsobená tým, že máte nastavené heslo Desktop zálohovania.\n\nProsím overte či heslo Desktop zálohovania je prázdne a potom stlačte späť pre návrat do Carbonu.</string>
+    <string name="scheduled_backup_complete">Plánovaná záloha bola dokončená.</string>
+    <string name="scheduled_backup_error">Došlo k chybe počas Vašej plánovanej zálohy.</string>
+    <string name="scheduled_backup_click">Kliknutím vykonáte zálohu.</string>
+    <string name="scheduled_backup_screen_locked">Uzamknutie obrazovky zabránilo vykonať plánovanú zálohu.</string>
 </resources>
