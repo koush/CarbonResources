@@ -23,7 +23,7 @@
     <string name="restore">Helyreállítás</string>
     <string name="selected_for_restore">%s alkalmazás helyreállítása kiválasztva.</string>
     <string name="selected_for_backup">%s alkalmazás mentése kiválasztva.</string>
-    <string name="selected_for_sync">%s alkalmazás szinkronizálásra kiválasztva.</string>
+    <string name="selected_for_sync">%s alkalmazás szinkronizálása kiválasztva.</string>
     <string name="installed">Telepítve</string>
     <string name="not_installed">Nincs telepítve</string>
     <string name="app_download_required">Alkalmazás letöltése szükséges</string>
