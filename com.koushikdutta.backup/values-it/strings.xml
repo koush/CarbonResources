@@ -39,15 +39,15 @@
     <string name="remove_device_more">Premi OK per rimuovere %s dalla lista dei dispositivi gestiti da Carbon.\n\nDovresti anche rimuovere Carbon da quel dispositivo per completare la disinstallazione.</string>
     <string name="refresh_device_list">Aggiorna la lista dei dispositivi</string>
     <string name="backup_error">Errore nel backup</string>
-    <string name="error_occured_during_backup">E avvenuto un errore durante il backup. Un log dell'errore è stato inviato a ClockworkMod.\n\nClicca Backup per provare ad effettuare il backup delle apps rimanenti.</string>
+    <string name="error_occured_during_backup">È avvenuto un errore durante il backup. Un log dell'errore è stato inviato a ClockworkMod.\n\nClicca Backup per provare ad effettuare il backup delle apps rimanenti.</string>
     <string name="backup_complete">Backup Completato</string>
     <string name="backup_complete_more">Il backup delle tue apps è stato completato.</string>
     <string name="select_backup">Seleziona la destinazione del backup</string>
     <string name="login_complete">Sei loggato con il tuo account di Google Drive.</string>
-    <string name="error_occured_during_restore">E avvenuto un errore durante il ripristino dell'app. Un log dell'errore è stato inviato a ClockworkMod.\n\nClicca Ripristina per provare a ripristinare le apps rimanenti.</string>
+    <string name="error_occured_during_restore">È avvenuto un errore durante il ripristino dell'app. Un log dell'errore è stato inviato a ClockworkMod.\n\nClicca Ripristina per provare a ripristinare le apps rimanenti.</string>
     <string name="restore_complete">Recupero Completato</string>
     <string name="restore_complete_more">Il ripristino delle tue apps è stato completato.</string>
-    <string name="error_occured_during_sync">E avvenuto un errore durante la sincronizzazione della tua app. Un log dell'errore è stato inviato a ClockworkMod.\n\nClicca Sincronizza per provare a sincronizzare le apps rimanenti.</string>
+    <string name="error_occured_during_sync">È avvenuto un errore durante la sincronizzazione della tua app. Un log dell'errore è stato inviato a ClockworkMod.\n\nClicca Sincronizza per provare a sincronizzare le apps rimanenti.</string>
     <string name="sync_complete">Sincronizzazione Completata</string>
     <string name="sync_complete_more">La Sincronizzazione dell'app è stata completata.</string>
     <string name="error">Errore</string>
@@ -58,7 +58,7 @@
     <string name="no_backups">Non sono stati trovati backup sul tuo %s. Dovresti farne uno!</string>
     <string name="delete_backup">Elimina Backup</string>
     <string name="delete_backup_confirm">Vuoi eliminare il backup? L'operazione non può essere annullata.</string>
-    <string name="delete_backup_error">E avvenuto un errore durante l'eliminazione del backup. Un log dell'errore è stato inviato a ClockworkMod.</string>
+    <string name="delete_backup_error">È avvenuto un errore durante l'eliminazione del backup. Un log dell'errore è stato inviato a ClockworkMod.</string>
     <string name="root">Root</string>
     <string name="root_permissions">Carbon controllerà se disponi dei permessi di root. Se la finestra di richiesta dei permessi di root appare, per favore seleziona \"permetti sempre\".</string>
     <string name="android_backup">Android Backup</string>
@@ -109,10 +109,10 @@
     <string name="recover">Recupera</string>
     <string name="redeem_code">Riscatta Codice</string>
     <string name="recover_purchase">Recupera Licenza</string>
-    <string name="recover_purchase_error">E avvenuto un errore durante l'acquisto.</string>
+    <string name="recover_purchase_error">È avvenuto un errore durante l'acquisto.</string>
     <string name="no_license_found_email">Non è stata trovata nessuna licenza per l'email Paypal</string>
     <string name="hide">Nascondi</string>
-    <string name="hide_message">Vuoi nascondere %s? Sarà spostata in fondo alla lista delle app e non selezionata da \"Seleziona tutti\".</string>
+    <string name="hide_message">Vuoi nascondere %s? Sarà spostata in fondo alla lista delle app e non sarà selezionata da \"Seleziona tutti\".</string>
     <string name="unhide">Mostra</string>
     <string name="unhide_message">%s viene mostrata.</string>
     <string name="hidden">Nascosta</string>
@@ -134,5 +134,5 @@
     <string name="wifi_only">Backup solo via WiFi</string>
     <string name="plugged_in">Backup sono sotto carica</string>
     <string name="set_password">Imposta Password</string>
-    <string name="desktop_backup_password_info">E avvenuto un errore durante il backup.\n\nQuesto errore potrevve essere causato dall'avere impostato una password per il backup dal desktop.\n\nVerifica che la password per il backup sul desktop sia vuota, quindi premi indietro per tornare a Carbon.</string>
+    <string name="desktop_backup_password_info">È avvenuto un errore durante il backup.\n\nQuesto errore potrevve essere causato dall'avere impostato una password per il backup dal desktop.\n\nVerifica che la password per il backup sul desktop sia vuota, quindi premi indietro per tornare a Carbon.</string>
 </resources>
