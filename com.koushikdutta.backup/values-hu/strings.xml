@@ -23,11 +23,11 @@
     <string name="restore">Helyreállítás</string>
     <string name="selected_for_restore">%s alkalmazás helyreállítása kiválasztva.</string>
     <string name="selected_for_backup">%s alkalmazás mentése kiválasztva.</string>
-    <string name="selected_for_sync">%s alkalmazás szinkronizálásra kiválasztva.</string>
+    <string name="selected_for_sync">%s alkalmazás szinkronizálása kiválasztva.</string>
     <string name="installed">Telepítve</string>
     <string name="not_installed">Nincs telepítve</string>
     <string name="app_download_required">Alkalmazás letöltése szükséges</string>
-    <string name="app_protected">Az alkalmazást nem lehet menteni. Kérjük, hogy előbb töltsd le a Google Play áruházból az adatok szinkronizálása előtt.\n\nBökj az OK-ra a Google Play áruházban folytatáshoz.</string>
+    <string name="app_protected">Az alkalmazást nem lehet menteni. Kérjük, hogy az adatok szinkronizálása előtt töltsd le a Google Play áruházból.\n\nBökj az OK-ra a Google Play áruházban folytatáshoz.</string>
     <string name="cloud">Cloud</string>
     <string name="dropbox">Dropbox</string>
     <string name="drive">Google Drive</string>
@@ -122,7 +122,7 @@
     <string name="time">Időpont</string>
     <string name="schedule_backup">Időzített mentés</string>
     <string name="delete_scheduled_backup">Időzített mentés törlése?</string>
-    <string name="no_scheduled">Nincs időzített mentés.\nMentés időzítéséhez:\n\n1) Menj a mentések listára\n2) Válaszd ki a menteni kívánt alkalmazásokat\n3) Bökj e Mentés-re\n4)Válaszd az időzítést</string>
+    <string name="no_scheduled">Nincs időzített mentés.\nMentés időzítéséhez:\n\n1) Menj a mentések listára\n2) Válaszd ki a menteni kívánt alkalmazásokat\n3) Bökj e Mentés-re\n4) Válaszd az időzítést</string>
     <string name="schedule_backup_premium">Az időzített mentés a Carbon Premium tulajdonsága.</string>
     <string name="buy_premium_summary">A Carbon Premium vásárlásával a Carbon összes tulajdonságát használhatod!</string>
     <string name="restore_complete_more_rate">Az alkalmazás helyreállítása elkészült.\n\nHa van egy kis időd, megköszönném ha értékelnéd a Carbon-t a Google Play áruházban!</string>
@@ -132,4 +132,12 @@
     <string name="status_ptp_off">Az Android USB MTP módban van. Szükséged lesz a PTP-re átállításra.</string>
     <string name="ptp_info">Az Android beállításokban találod meg a kamera (PTP) módot.\n\nEngedélyezd a beállítást, majd nyomd le a vissza gombot a Carbon-ra visszatéréshez.</string>
     <string name="not_admin_info">Az Android mentési mechanizmusa csak az eszköz elsődleges felhasználójával működik.\n\nA Carbon most kilép. Kérjük, hogy a Carbon-t az elsődleges felhasználóval indítsd el!</string>
+    <string name="wifi_only">Mentés csak WiFi-n</string>
+    <string name="plugged_in">Mentés csak akkutöltés közben</string>
+    <string name="set_password">Jelszó</string>
+    <string name="desktop_backup_password_info">Az alkalmazások mentése közben hiba történt.\n\nEzt valószínűleg a Desktop Backup jelszó okozta.\n\nEllenőrizd, hogy a Desktop Backup jelszó üres, majd a vissza gomb lenyomásával térj vissza a Carbon alkalmazásba.</string>
+    <string name="scheduled_backup_complete">Az időzített mentés kész.</string>
+    <string name="scheduled_backup_error">Hiba történt az időzített mentés közben.</string>
+    <string name="scheduled_backup_click">Bökj ide a mentéshez.</string>
+    <string name="scheduled_backup_screen_locked">A képernyőzár miatt az időzített mentés nem indult el.</string>
 </resources>
