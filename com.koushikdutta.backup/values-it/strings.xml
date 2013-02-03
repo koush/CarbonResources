@@ -108,9 +108,9 @@
     <string name="restore_premium_required">Ripristino da %1$s richiede %2$s.</string>
     <string name="recover">Recupera</string>
     <string name="redeem_code">Riscatta Codice</string>
-    <string name="recover_purchase">Recupera Licenza</string>
+    <string name="recover_purchase">Recupera Chiave d'attivazione</string>
     <string name="recover_purchase_error">È avvenuto un errore durante l'acquisto.</string>
-    <string name="no_license_found_email">Non è stata trovata nessuna licenza per l'email Paypal</string>
+    <string name="no_license_found_email">Non è stata trovata nessuna chiave d'attivazione per l'email Paypal</string>
     <string name="hide">Nascondi</string>
     <string name="hide_message">Vuoi nascondere %s? Sarà spostata in fondo alla lista delle app e non sarà selezionata da \"Seleziona tutti\".</string>
     <string name="unhide">Mostra</string>
