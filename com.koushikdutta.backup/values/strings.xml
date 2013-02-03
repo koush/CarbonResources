@@ -136,4 +136,8 @@
     <string name="plugged_in">Backup only when charging</string>
     <string name="set_password">Set Password</string>
     <string name="desktop_backup_password_info">An error occurred while performing your app backup.\n\nThis error may be caused by having a Desktop Backup Password.\n\nPlease verify your Desktop Backup Password is a blank password, then press back to return to Carbon.</string>
+    <string name="scheduled_backup_complete">Scheduled backup complete.</string>
+    <string name="scheduled_backup_error">Error during your scheduled backup.</string>
+    <string name="scheduled_backup_click">Click to perform backup.</string>
+    <string name="scheduled_backup_screen_locked">Screen lock prevented scheduled backup.</string>
 </resources>
