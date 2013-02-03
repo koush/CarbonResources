@@ -136,4 +136,8 @@
     <string name="plugged_in">Respaldar sólo mientras se carga el dispositivo</string>
     <string name="set_password">Establecer una constraseña</string>
     <string name="desktop_backup_password_info">Un error ocurrió mientras se realizaba el respaldo de tu aplicación.\n\nEste error pudo haber sido causado por tener una contraseña de respaldo al computador.\n\nPor favor verifica que tu contraseña de respaldo al computador está vacía, después presiona atras para retornar a Carbon.</string>
+    <string name="scheduled_backup_complete">Respaldo programado completado.</string>
+    <string name="scheduled_backup_error">Hubo un error durante tu respaldo programado.</string>
+    <string name="scheduled_backup_click">Haz clic para realizar tu respaldo.</string>
+    <string name="scheduled_backup_screen_locked">El bloqueo de pantalla no permitio realizar el respaldo programado.</string>
 </resources>
