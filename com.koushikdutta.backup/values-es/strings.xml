@@ -94,7 +94,7 @@
     <string name="adb_info">En tus ajustes de Android, encontraras un ajuste para habilitar la depuración USB.\n\nHabilita el ajuste, y después presiona atras para volver a Carbon.</string>
     <string name="connect_cancel">Los respaldos de las aplicaciones Android deben estar habilitadas en Carbon Desktop.\n\nCancelando este proceso puede resulatr en que Carbon no funcione correctamente.\n\n¿Seguro que desesas cancelar?</string>
     <string name="send_link">Enviar enlace</string>
-    <string name="connect_success">¡Respaldo de aplicaciones Android habilitada!\n\nTen en cuenta: si apagas tu Android, necesitas reconectarte a Carbon Desktop para habilitar el respaldo de aplicaciones de nuevo.</string>
+    <string name="connect_success">¡Respaldo de aplicaciones de Android habilitada! Ahora puedes desconectarlo de tu PC.\n\nTen en cuenta: si apagas tu Android, necesitas reconectarte a Carbon Desktop para habilitar el respaldo de aplicaciones de nuevo.</string>
     <string name="no_logins">No fue posible ingresar. No has configurado ninguna cuenta Google.</string>
     <string name="superuser">Superusuario</string>
     <string name="superuser_bleh">Superusuario está desactualizado. Es recomendado que actualices a SuperSU.\n\nPuedes encontrar SuperSU en Google Play.</string>
@@ -132,4 +132,8 @@
     <string name="status_ptp_off">Tu Android está en modo MTP. Necesitas cambiarlo a PTP.</string>
     <string name="ptp_info">En los ajustes de tu Android, encontrarás un ajuste para habilitar el modo Cámara (PTP).\n\nHabilita el ajuste, y presiona atras para volver a Carbon.</string>
     <string name="not_admin_info">El mecanismo de respaldo de Android sólo funciona con el dispositivo principal del usuario.\n\nCarbon se cerrará en este momento. Por favor abre Carbon con el dispositivo principal.</string>
+    <string name="wifi_only">Respaldar sólo en WiFi</string>
+    <string name="plugged_in">Respaldar sólo mientras se carga el dispositivo</string>
+    <string name="set_password">Establecer una constraseña</string>
+    <string name="desktop_backup_password_info">Un error ocurrió mientras se realizaba el respaldo de tu aplicación.\n\nEste error pudo haber sido causado por tener una contraseña de respaldo al computador.\n\nPor favor verifica que tu contraseña de respaldo al computador está vacía, después presiona atras para retornar a Carbon.</string>
 </resources>
