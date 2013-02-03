@@ -132,4 +132,12 @@
     <string name="status_ptp_off">Το USB του Android σας είναι σε λειτουργία MTP. Θα χρειαστεί να την αλλάξετε σε PTP.</string>
     <string name="ptp_info">Στις Ρυθμίσεις Android, θα βρείτε για να ενεργοποιήσετε τη σύνδεση ως Φωτογραφική μηχανή (PTP).\n\nΕπιλέξτε τη ρύθμιση, κατόπιν πατήστε "πίσω" για να γυρίσετε στο Carbon.</string>
     <string name="not_admin_info">Ο μηχανισμός αντιγάφων ασφαλείας του Android λειτουργεί μόνο με τον πρωτεύοντα λογαριασμό χρήστη.\n\nΤο Carbon θα τερματίσει. Παρακαλώ ανοίξτε το Carbon μέσω του πρωτεύοντα χρήστη!</string>
+    <string name="wifi_only">Αντιγραφή μόνο μέσω WiFi</string>
+    <string name="plugged_in">Αντιγραφή μόνο κατά τη φόρτιση</string>
+    <string name="set_password">Ορισμός Κωδικού Ασφαλείας</string>
+    <string name="desktop_backup_password_info">Παρουσιάστηκε σφάλμα κατά την αντιγραφή των εφαρμογών σας.\n\nΤο σφάλμα αυτό μπορεί να οφείλεται σε κάποιον ενεργό Κωδικό Ασφαλείας του Desktop Backup.\n\nΠαρακαλώ βεβαιωθείτε πως ο Κωδικός Ασφαλείας του Desktop Backup είναι κενός, κατόπιν πατήστε πίσω για να γυρίσετε στο Carbon.</string>
+    <string name="scheduled_backup_complete">Ολοκλήρωση προκαθορισμένης αντιγραφής ασφαλείας.</string>
+    <string name="scheduled_backup_error">Σφάλμα κατά την προκαθορισμένη αντιγραφή ασφαλείας.</string>
+    <string name="scheduled_backup_click">Πατήστε για να δημιουργήσετε αντίγραφο ασφαλείας.</string>
+    <string name="scheduled_backup_screen_locked">Το κλείδωμα της οθόνης απέτρεψε την προδιαγεγραμμένη αντιγραφή ασφαλείας.</string>
 </resources>
