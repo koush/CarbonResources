@@ -126,7 +126,7 @@
     <string name="buy_premium_summary">Zakúpte si Carbon Premium pre prístup ku všetkým funkciám Carbonu!</string>
     <string name="restore_complete_more_rate">Vaša obnova aplik. je dokončená.\n\nAk máte chvíľku, ocenil by som, keby ste ohodnotili Carbon na Google Play!</string>
     <string name="rate_carbon">Ohodnotiť Carbon</string>
-    <string name="swipe_up_info">Tip:\n\nSkúste swipovať na spodný panel pre odhalenie ďalších možností, ako napríklad Označiť všetko.</string>
+    <string name="swipe_up_info">Tip:\n\nVysunutím spodného panela získate prístup k ďalším možnostiam, ako napríklad Označiť všetko.</string>
     <string name="enable_ptp">Povoliť PTP režim</string>
     <string name="status_ptp_off">Váš Android USB je v režime MTP. Možno budete musieť prepnúť do PTP.</string>
     <string name="ptp_info">Vo Vašich Android nastaveniach nájdete nastavenie pre povolenie režimu Fotoaparát (PTP).\n\nPovoľte nastavenie a potom stlačte späť pre návrat do Carbonu.</string>
