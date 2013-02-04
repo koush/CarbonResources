@@ -61,6 +61,7 @@
     <string name="delete_backup_confirm">Vymazať zálohu? Toto nie je možné vrátiť späť.</string>
     <string name="delete_backup_error">Došlo k chybe pri vymazávaní Vašej zálohy. Záznam s chybou bolo odoslaný do ClockworkModu.</string>
     <string name="root">Root</string>
+    <string name="root_permissions">Carbon bude teraz kontrolovať root práva. Ak sa objaví dialóg so žiadosťou o root práva, zvoľte prosím \"Vždy povoliť\".</string>
     <string name="android_backup">Android zálohovanie</string>
     <string name="dropbox_login_error">Nemožno sa prihlásiť do Dropboxu.</string>
     <string name="dropbox_login_complete">Prihlásili ste sa do Vášho Dropbox konta.</string>
