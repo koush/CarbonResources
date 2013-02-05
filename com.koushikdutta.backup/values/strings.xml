@@ -140,4 +140,8 @@
     <string name="scheduled_backup_error">Error during your scheduled backup.</string>
     <string name="scheduled_backup_click">Click to perform backup.</string>
     <string name="scheduled_backup_screen_locked">Screen lock prevented scheduled backup.</string>
+    <string name="advanced">Advanced</string>
+    <string name="automation">Automation</string>
+    <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
+    <string name="settings">Settings</string>
 </resources>

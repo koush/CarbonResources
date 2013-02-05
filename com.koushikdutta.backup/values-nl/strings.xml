@@ -55,7 +55,7 @@
     <string name="welcome">Welkom bij Carbon</string>
     <string name="welcome_message">Welkom bij Carbon!\n\nLog in op je Google-account, zodat u kunt een back-up op uw Google Drive kunt maken en synchroniseren met uw andere apparaten!</string>
     <string name="no_thanks">Nee, bedankt</string>
-    <string name="no_problem">Dat is geen probleem! U kunt nog steeds een back-up maken en herstellen van uw telefoon's USB-opslag.</string>
+    <string name="no_problem">Dat is geen probleem! U kunt nog steeds een back-up maken en herstellen van uw telefoon\'s USB-opslag.</string>
     <string name="no_backups">geen back-ups werden gevonden op uw %s. Misschien moet u er een paar maken!</string>
     <string name="delete_backup">Delete Backup</string>
     <string name="delete_backup_confirm">Verwijder back-up? Dit kan niet ongedaan gemaakt worden.</string>
