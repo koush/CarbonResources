@@ -140,4 +140,8 @@
     <string name="scheduled_backup_error">Hiba történt az időzített mentés közben.</string>
     <string name="scheduled_backup_click">Bökj ide a mentéshez.</string>
     <string name="scheduled_backup_screen_locked">A képernyőzár miatt az időzített mentés nem indult el.</string>
+    <string name="advanced">Részletes</string>
+    <string name="automation">Automatizálás</string>
+    <string name="force_key_event_automation">Érintés helyett eseményekhez kötött időzített mentések és helyreállítások automatizálásának megerősítése.</string>
+    <string name="settings">Beállítások</string>
 </resources>
