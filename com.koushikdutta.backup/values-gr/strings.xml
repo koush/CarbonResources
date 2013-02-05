@@ -140,4 +140,8 @@
     <string name="scheduled_backup_error">Σφάλμα κατά την προκαθορισμένη αντιγραφή ασφαλείας.</string>
     <string name="scheduled_backup_click">Πατήστε για να δημιουργήσετε αντίγραφο ασφαλείας.</string>
     <string name="scheduled_backup_screen_locked">Το κλείδωμα της οθόνης απέτρεψε την προδιαγεγραμμένη αντιγραφή ασφαλείας.</string>
+    <string name="advanced">Προχωρημένα</string>
+    <string name="automation">Αυτοματισμός</string>
+    <string name="force_key_event_automation">Χρήση συμβάντων πλήκτρων αντί πατημάτων για την αυτοματοποίηση των παραθύρων επιβεβαίωσης αντιγραφής και επαναφοράς.</string>
+    <string name="settings">Ρυθμίσεις</string>   
 </resources>
