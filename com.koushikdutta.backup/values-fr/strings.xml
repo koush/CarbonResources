@@ -139,5 +139,5 @@
     <string name="scheduled_backup_complete">Sauvegarde planifiée terminée.</string>
     <string name="scheduled_backup_error">Erreur pendant la sauvegarde planifiée.</string>
     <string name="scheduled_backup_click">Appuyez pour procéder à la sauvegarde.</string>
-    <string name="scheduled_backup_screen_locked">L'écran de verrouillage a empêché la sauvegarde planifiée.</string>
+    <string name="scheduled_backup_screen_locked">L\'écran de verrouillage a empêché la sauvegarde planifiée.</string>
 </resources>
