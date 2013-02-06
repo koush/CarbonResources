@@ -140,4 +140,8 @@
     <string name="scheduled_backup_error">Erreur pendant la sauvegarde planifiée.</string>
     <string name="scheduled_backup_click">Appuyez pour procéder à la sauvegarde.</string>
     <string name="scheduled_backup_screen_locked">L'écran de verrouillage a empêché la sauvegarde planifiée.</string>
+    <string name="advanced">Avancé</string>
+    <string name="automation">Automatisation</string>
+    <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
+    <string name="settings">Paramètres</string>
 </resources>
