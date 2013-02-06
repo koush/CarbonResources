@@ -50,6 +50,29 @@
         </LinearLayout>
 
         <LinearLayout
+            android:id="@+id/external_sdcard"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:paddingBottom="10dp" >
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_vertical"
+                android:scaleType="fitCenter"
+                android:src="@drawable/sdcard" />
+
+            <TextView
+                style="@android:style/TextAppearance.Medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="@string/external_sdcard" />
+        </LinearLayout>
+        
+        <LinearLayout
             android:id="@+id/schedule_backup"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -138,6 +161,28 @@
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="10dp"
                 android:text="@string/box" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/add_cloud_storage_account"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal" >
+
+            <ImageView
+                android:layout_width="48dp"
+                android:layout_height="48dp"
+                android:layout_gravity="center_vertical"
+                android:scaleType="fitCenter"
+                android:src="@drawable/ic_cloud" />
+
+            <TextView
+                style="@android:style/TextAppearance.Medium"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:paddingLeft="10dp"
+                android:text="@string/add_cloud_storage_account" />
         </LinearLayout>
     </LinearLayout>
 

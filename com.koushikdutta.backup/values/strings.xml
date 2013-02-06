@@ -144,4 +144,8 @@
     <string name="automation">Automation</string>
     <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
     <string name="settings">Settings</string>
+    <string name="connected_via_wifi">Connected via Wifi</string>
+    <string name="sdcard">SD Card</string>
+    <string name="external_sdcard">External SD Card</string>
+    <string name="restore_external_sdcard_summary">Restore apps from the external SD Card in this %s.</string>
 </resources>
