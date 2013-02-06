@@ -144,4 +144,8 @@
     <string name="automation">Automatizálás</string>
     <string name="force_key_event_automation">Érintés helyett eseményekhez kötött időzített mentések és helyreállítások automatizálásának megerősítése.</string>
     <string name="settings">Beállítások</string>
+    <string name="connected_via_wifi">Wifi-n kapcsolódva</string>
+    <string name="sdcard">SD kártya</string>
+    <string name="external_sdcard">Külső SD kártya</string>
+    <string name="restore_external_sdcard_summary">Alkalmazások helyreállítása SD kártyáról a(z) %s eszközön.</string>
 </resources>
