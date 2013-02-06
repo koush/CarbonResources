@@ -136,12 +136,16 @@
     <string name="plugged_in">Αντιγραφή μόνο κατά τη φόρτιση</string>
     <string name="set_password">Ορισμός Κωδικού Ασφαλείας</string>
     <string name="desktop_backup_password_info">Παρουσιάστηκε σφάλμα κατά την αντιγραφή των εφαρμογών σας.\n\nΤο σφάλμα αυτό μπορεί να οφείλεται σε κάποιον ενεργό Κωδικό Ασφαλείας του Desktop Backup.\n\nΠαρακαλώ βεβαιωθείτε πως ο Κωδικός Ασφαλείας του Desktop Backup είναι κενός, κατόπιν πατήστε πίσω για να γυρίσετε στο Carbon.</string>
-    <string name="scheduled_backup_complete">Ολοκλήρωση προκαθορισμένης αντιγραφής ασφαλείας.</string>
-    <string name="scheduled_backup_error">Σφάλμα κατά την προκαθορισμένη αντιγραφή ασφαλείας.</string>
+    <string name="scheduled_backup_complete">Ολοκλήρωση προγραμματισμένης αντιγραφής ασφαλείας.</string>
+    <string name="scheduled_backup_error">Σφάλμα κατά την προγραμματισμένη αντιγραφή ασφαλείας.</string>
     <string name="scheduled_backup_click">Πατήστε για να δημιουργήσετε αντίγραφο ασφαλείας.</string>
-    <string name="scheduled_backup_screen_locked">Το κλείδωμα της οθόνης απέτρεψε την προδιαγεγραμμένη αντιγραφή ασφαλείας.</string>
+    <string name="scheduled_backup_screen_locked">Το κλείδωμα της οθόνης απέτρεψε την προγραμματισμένη αντιγραφή ασφαλείας.</string>
     <string name="advanced">Προχωρημένα</string>
     <string name="automation">Αυτοματισμός</string>
     <string name="force_key_event_automation">Χρήση συμβάντων πλήκτρων αντί πατημάτων για την αυτοματοποίηση των παραθύρων επιβεβαίωσης αντιγραφής και επαναφοράς.</string>
-    <string name="settings">Ρυθμίσεις</string>   
+    <string name="settings">Ρυθμίσεις</string>
+    <string name="connected_via_wifi">Συνδεμένο μέσω Wifi</string>
+    <string name="sdcard">Κάρτα SD</string>
+    <string name="external_sdcard">Εξωτερική Κάρτα SD</string>
+    <string name="restore_external_sdcard_summary">Επαναφορά εφαρμογών από την εξωτερική κάρτα SD Card στο %s.</string>
 </resources>
