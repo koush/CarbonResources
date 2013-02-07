@@ -21,9 +21,9 @@
     <string name="backingup">Zálohujem...</string>
     <string name="restore_and_sync">Obnoviť a zosychr.</string>
     <string name="restore">Obnoviť</string>
-    <string name="selected_for_restore">%s aplik. vybraných na obnovovanie.</string>
-    <string name="selected_for_backup">%s aplik. vybraných na zálohovanie.</string>
-    <string name="selected_for_sync">%s aplik. vybraných na synchronizovanie.</string>
+    <string name="selected_for_restore">Počet aplikácií vybraných na obnovovanie: %s</string>
+    <string name="selected_for_backup">Počet aplikácií vybraných na zálohovanie: %s</string>
+    <string name="selected_for_sync">Počet aplikácií vybraných na synchronizovanie: %s</string>
     <string name="installed">Nainštalované</string>
     <string name="not_installed">Nenainštalované</string>
     <string name="app_download_required">Povinné stiahnutie aplikácie</string>
@@ -85,16 +85,16 @@
     <string name="restore_in_progress">Prebieha Carbon obnovovanie</string>
     <string name="canceling">Ruším...</string>
     <string name="box">Box</string>
-    <string name="last_seen">Posledné zobrazenie: %s</string>
+    <string name="last_seen">Posledné zobr.: %s</string>
     <string name="checking_enabled">Čakám na program Carbon pre povolenie zálohovania aplikácií na Vašom Android zariadení...\n\nProsím získajte program Carbon pre Váš PC:\n\n%s</string>
     <string name="connect_pc">Vitajte!\n\nPre začatie práce s Carbonom, músite najskôr povoliť zálohovanie aplikácií pripojením k programu Carbon.\n\nProsím navštívte webové stránky Carbonu na Vašom PC pre ďalšie pokyny:\n\n</string>
     <string name="status_adb_off">Prosím povoľte USB ladenie...</string>
     <string name="connect_usb">Prosím pripojte Vaše Android zariadenie k Vášmu PC...</string>
     <string name="enable_adb">Povoliť USB ladenie</string>
     <string name="adb_info">Vo Vašich Android nastaveniach nájdete nastavenie pre povolenie USB ladenia.\n\nPovoľte nastavenie a potom stlačte späť pre návrat do Carbonu.</string>
-    <string name="connect_cancel">Zálohovanie Android aplikácií musú byť povolené pomocou programu Carbon Desktop.\n\nZrušenie tohto procesu bude mať za následok nesprávne pracovanie Carbonu.\n\nSte si istý, že chcete zrušiť?</string>
+    <string name="connect_cancel">Zálohovanie Android aplikácií musí byť povolené pomocou programu Carbon.\n\nZrušenie tohto procesu bude mať za následok nesprávne pracovanie Carbonu.\n\nSte si istý, že chcete zrušiť?</string>
     <string name="send_link">Poslať odkaz</string>
-    <string name="connect_success">Zálohovanie Android aplik. povolené!\n\nVezmite prosím na vedomie: ak vypnete Vaše Android zariadenie, budete sa musieť znova pripojiť ku Carbonu Desktop pre povolenie zálohovania aplikácií.</string>
+    <string name="connect_success">Zálohovanie Android aplik. povolené!\n\nVezmite prosím na vedomie: ak vypnete Vaše Android zariadenie, budete sa musieť znova pripojiť ku programu Carbonu pre povolenie zálohovania aplikácií.</string>
     <string name="no_logins">Nemožno sa prihlásiť. Nemáte nastavené žiadne Google konto.</string>
     <string name="superuser">Superuser</string>
     <string name="superuser_bleh">Superuser je zastaraný. Odporúča sa vykonať aktualizáciu na SuperSU.\n\nSuperSU nájdete v Google Play.</string>
@@ -140,4 +140,12 @@
     <string name="scheduled_backup_error">Došlo k chybe počas Vašej plánovanej zálohy.</string>
     <string name="scheduled_backup_click">Kliknutím vykonáte zálohu.</string>
     <string name="scheduled_backup_screen_locked">Uzamknutie obrazovky zabránilo vykonať plánovanú zálohu.</string>
+    <string name="advanced">Pokročilé</string>
+    <string name="automation">Automatizácia</string>
+    <string name="force_key_event_automation">Použiť HW tlačidlá namiesto dotyk. obrazovky pre automatizáciu potvrdenia okna zálohovania/obnovovania.</string>
+    <string name="settings">Nastavenia</string>
+    <string name="connected_via_wifi">Pripojené cez Wifi</string>
+    <string name="sdcard">SD karta</string>
+    <string name="external_sdcard">Externá SD karta</string>
+    <string name="restore_external_sdcard_summary">Obnovenie aplikácií z externej SD karty na tomto %s.</string>
 </resources>

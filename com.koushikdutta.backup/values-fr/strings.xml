@@ -32,7 +32,7 @@
     <string name="dropbox">Dropbox</string>
     <string name="drive">Google Drive</string>
     <string name="no_devices">Aucun périphérique trouvé</string>
-    <string name="no_devices_summary">Installez Carbon sur vos autres périphériques pour synchroniser vos données ! Cliquez pour rafraîchir.</string>
+    <string name="no_devices_summary">Installez Carbon sur vos autres périphériques pour synchroniser vos données ! Appuyez ici pour rafraîchir.</string>
     <string name="usb_storage">Stockage USB</string>
     <string name="restore_usb_storage_summary">Restaurer les applis depuis le stockage USB de ce %s.</string>
     <string name="backup">Sauvegarde</string>
@@ -122,7 +122,7 @@
     <string name="time">Heure</string>
     <string name="schedule_backup">Sauvegarde Planifiée</string>
     <string name="delete_scheduled_backup">Supprimer la Sauvegarde Planifiée ?</string>
-    <string name="no_scheduled">Il n\'y a pas de sauvegarde planifiée.\nPour planifier une sauvegarde:\n\n1) Allez dans la liste de sauvegarde\n2) Choisissez les applis que vous voulez sauvegarder\n3) Appuyez sur Sauvegarder\n4)Choisissez Planifier</string>
+    <string name="no_scheduled">Il n\'y a pas de sauvegarde planifiée.\nPour planifier une sauvegarde:\n\n1) Allez dans la liste de sauvegarde\n2) Choisissez les applis que vous voulez sauvegarder\n3) Appuyez sur Sauvegarder\n4) Choisissez Planifier</string>
     <string name="schedule_backup_premium">La Sauvegarde Planifiée est une fonctionnalité réservée à Carbon Premium.</string>
     <string name="buy_premium_summary">Achetez Carbon Premium pour accéder à toutes les fonctionnalités de Carbon !</string>
     <string name="restore_complete_more_rate">Votre restauration d\'applis est terminée.\n\nSi vous avez une minute, j\'apprécierai que vous donniez une note et votre avis à propos de Carbon sur le Google Play Store !</string>
@@ -140,4 +140,12 @@
     <string name="scheduled_backup_error">Erreur pendant la sauvegarde planifiée.</string>
     <string name="scheduled_backup_click">Appuyez pour procéder à la sauvegarde.</string>
     <string name="scheduled_backup_screen_locked">L\'écran de verrouillage a empêché la sauvegarde planifiée.</string>
+    <string name="advanced">Avancé</string>
+    <string name="automation">Automatisation</string>
+    <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
+    <string name="settings">Paramètres</string>
+    <string name="connected_via_wifi">Connecté en Wifi</string>
+    <string name="sdcard">Carte SD</string>
+    <string name="external_sdcard">Carte SD Externe</string>
+    <string name="restore_external_sdcard_summary">Restaurer les applis depuis la carte SD externe sur ce %s.</string>
 </resources>

@@ -97,7 +97,7 @@
     <string name="connect_success">Android app backup enabled! You can now disconnect from your PC.\n\nPlease note: if you turn your Android off, you will need to reconnect to Carbon Desktop to enable application backup again.</string>
     <string name="no_logins">Unable to login. You have not set up any Google Accounts.</string>
     <string name="superuser">Superuser</string>
-    <string name="superuser_bleh">Superuser is outdated. It is recommended that you upgrade to SuperSU.\n\nYou can find SuperSU on the Android Market.</string>
+    <string name="superuser_bleh">Superuser is outdated. It is recommended that you upgrade to SuperSU.\n\nYou can find SuperSU on Google Play.</string>
     <string name="schedule">Schedule</string>
     <string name="buy_premium">Buy Premium</string>
     <string name="purchase_options">Purchase Options</string>
@@ -148,4 +148,6 @@
     <string name="sdcard">SD Card</string>
     <string name="external_sdcard">External SD Card</string>
     <string name="restore_external_sdcard_summary">Restore apps from the external SD Card in this %s.</string>
+    <string name="error_executing_su_command">There was an error the executing Superuser command. Carbon will fall back to non root usage.\n\nError: %s</string>
+    <string name="checking_superuser">Checking Superuser...</string>
 </resources>
