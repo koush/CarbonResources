@@ -148,4 +148,6 @@
     <string name="sdcard">SD kártya</string>
     <string name="external_sdcard">Külső SD kártya</string>
     <string name="restore_external_sdcard_summary">Alkalmazások helyreállítása SD kártyáról a(z) %s eszközön.</string>
+    <string name="error_executing_su_command">Hiba történt a Superuser parancs végrehajtása közben. A Carbon visszaáll a root nélküli működésre.\n\nHiba: %s</string>
+    <string name="checking_superuser">Superuser ellenőrzése...</string>
 </resources>
