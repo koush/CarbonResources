@@ -144,4 +144,10 @@
     <string name="automation">Automatisierung</string>
     <string name="force_key_event_automation">\"Key Events\" anstelle von Berührungen verwenden, um die Sicherungs- und Wiederherstellungsabfragen zu automatisieren</string>
     <string name="settings">Einstellungen</string>
+    <string name="connected_via_wifi">Über WLAN verbunden</string>
+    <string name="sdcard">SD-Karte</string>
+    <string name="external_sdcard">Externe SD-Karte</string>
+    <string name="restore_external_sdcard_summary">Apps von externer SD-Karte auf diesem %s wiederherstellen</string>
+    <string name="error_executing_su_command">Beim Ausführen des Superuser-Befehls ist ein Fehler aufgetreten. Carbon fällt auf die \"Nicht-Root-Funktionen\" zurück.\n\nFehler: %s</string>
+    <string name="checking_superuser">Prüfe Superuser...</string>
 </resources>

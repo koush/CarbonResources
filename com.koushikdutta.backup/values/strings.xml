@@ -148,6 +148,6 @@
     <string name="sdcard">SD Card</string>
     <string name="external_sdcard">External SD Card</string>
     <string name="restore_external_sdcard_summary">Restore apps from the external SD Card in this %s.</string>
-    <string name="error_executing_su_command">There was an error the executing Superuser command. Carbon will fall back to non root usage.\n\nError: %s</string>
+    <string name="error_executing_su_command">There was an error executing the Superuser command. Carbon will fall back to non root usage.\n\nError: %s</string>
     <string name="checking_superuser">Checking Superuser...</string>
 </resources>
