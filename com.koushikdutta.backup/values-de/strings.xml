@@ -6,8 +6,8 @@
     <string name="server_off">Carbon-Server ist nicht gestartet</string>
     <string name="server_on">Carbon-Server ist gestartet</string>
     <string name="server_what">Keine WLAN-Verbindung gefunden. Ist WiFi aktiv?</string>
-    <string name="logout">Anmelden</string>
-    <string name="login">Abmelden</string>
+    <string name="logout">Abmelden</string>
+    <string name="login">Anmelden</string>
     <string name="login_to_sync">Anmelden um Geräte zu synchronisieren</string>
     <string name="yes">Ja</string>
     <string name="no">Nein</string>
@@ -150,4 +150,7 @@
     <string name="restore_external_sdcard_summary">Apps von externer SD-Karte auf diesem %s wiederherstellen</string>
     <string name="error_executing_su_command">Beim Ausführen des Superuser-Befehls ist ein Fehler aufgetreten. Carbon fällt auf die \"Nicht-Root-Funktionen\" zurück.\n\nFehler: %s</string>
     <string name="checking_superuser">Prüfe Superuser...</string>
+    <string name="external_sdcard_error">Externe SD-Karte konnte nicht gelesen werden</string>
+    <string name="system">System</string>
+    <string name="messaging_storage">Nachrichtenspeicher</string>
 </resources>
