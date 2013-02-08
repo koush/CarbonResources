@@ -142,10 +142,15 @@
     <string name="scheduled_backup_screen_locked">Uzamknutie obrazovky zabránilo vykonať plánovanú zálohu.</string>
     <string name="advanced">Pokročilé</string>
     <string name="automation">Automatizácia</string>
-    <string name="force_key_event_automation">Použiť HW tlačidlá namiesto dotyk. obrazovky pre automatizáciu potvrdenia okna zálohovania/obnovovania.</string>
+    <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
     <string name="settings">Nastavenia</string>
     <string name="connected_via_wifi">Pripojené cez Wifi</string>
     <string name="sdcard">SD karta</string>
     <string name="external_sdcard">Externá SD karta</string>
     <string name="restore_external_sdcard_summary">Obnovenie aplikácií z externej SD karty na tomto %s.</string>
+    <string name="error_executing_su_command">Došlo k chybe pri vykonaní Superuser príkazu. Carbon sa vráti do bezrootového použitia.\n\nChyba: %s</string>
+    <string name="checking_superuser">Kontrolujem Superusera...</string>
+    <string name="external_sdcard_error">Nemožno čítať externú SD kartu.</string>
+    <string name="system">Systém</string>
+    <string name="messaging_storage">Úložisko správ</string>
 </resources>
