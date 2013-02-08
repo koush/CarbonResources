@@ -151,4 +151,6 @@
     <string name="error_executing_su_command">There was an error executing the Superuser command. Carbon will fall back to non root usage.\n\nError: %s</string>
     <string name="checking_superuser">Checking Superuser...</string>
     <string name="external_sdcard_error">Unable to read External SD Card.</string>
+    <string name="system">System</string>
+    <string name="messaging_storage">Messaging Storage</string>
 </resources>
