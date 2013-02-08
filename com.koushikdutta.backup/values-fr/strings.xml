@@ -148,4 +148,8 @@
     <string name="sdcard">Carte SD</string>
     <string name="external_sdcard">Carte SD Externe</string>
     <string name="restore_external_sdcard_summary">Restaurer les applis depuis la carte SD externe sur ce %s.</string>
+    <string name="checking_superuser">Vérification de Superuser...</string>
+    <string name="external_sdcard_error">Impossible de lire la carte SD externe.</string>
+    <string name="system">Système</string>
+    <string name="messaging_storage">Stockage de la Messagerie</string>
 </resources>
