@@ -154,4 +154,5 @@
     <string name="system">System</string>
     <string name="messaging_storage">Messaging Storage</string>
     <string name="whats_new">What\'s New</string>
+    <string name="version">Version</string>
 </resources>
