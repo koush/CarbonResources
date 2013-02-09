@@ -42,7 +42,7 @@
     <string name="backup_error">Sicherungsfehler</string>
     <string name="error_occured_during_backup">Ein Fehler ist während der Sicherung aufgetreten. Aufzeichnungen über den Fehler wurden zu ClockworkMod gesandt.\n\nSichern berühren um die restlichen Apps zu sichern.</string>
     <string name="backup_complete">Sicherung abgeschlossen</string>
-    <string name="backup_complete_more">App wurden vollständig gesichert</string>
+    <string name="backup_complete_more">Apps wurden vollständig gesichert</string>
     <string name="select_backup">Ziel für die Sicherung auswählen</string>
     <string name="login_complete">Google Drive-Anmeldung erfolgreich</string>
     <string name="error_occured_during_restore">Ein Fehler ist während der Wiederherstellung aufgetreten. Aufzeichnungen über den Fehler wurden zu ClockworkMod gesandt.\n\nWiederherstellen berühren um die restlichen Apps wiederherzustellen.</string>
