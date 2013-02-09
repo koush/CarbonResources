@@ -153,4 +153,5 @@
     <string name="external_sdcard_error">A külső SD kártya nem olvasható.</string>
     <string name="system">Rendszer</string>
     <string name="messaging_storage">Üzenet háttértár</string>
+    <string name="whats_new">Újdonságok</string>
 </resources>
