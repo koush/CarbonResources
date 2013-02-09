@@ -142,7 +142,7 @@
     <string name="scheduled_backup_screen_locked">Uzamknutie obrazovky zabránilo vykonať plánovanú zálohu.</string>
     <string name="advanced">Pokročilé</string>
     <string name="automation">Automatizácia</string>
-    <string name="force_key_event_automation">Použiť "key events" namiesto klikania pre automatizáciu potvrdzovacieho okna zálohovania/obnovovania.</string>
+    <string name="force_key_event_automation">Použiť stlačenie klávesy namiesto klikania pre automatizáciu potvrdzovania okna zálohovania/obnovovania.</string>
     <string name="settings">Nastavenia</string>
     <string name="connected_via_wifi">Pripojené cez Wifi</string>
     <string name="sdcard">SD karta</string>
@@ -153,4 +153,5 @@
     <string name="external_sdcard_error">Nemožno čítať externú SD kartu.</string>
     <string name="system">Systém</string>
     <string name="messaging_storage">Úložisko správ</string>
+    <string name="whats_new">Čo je nové</string>
 </resources>
