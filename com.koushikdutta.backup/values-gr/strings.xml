@@ -150,4 +150,7 @@
     <string name="restore_external_sdcard_summary">Επαναφορά εφαρμογών από την εξωτερική κάρτα SD Card στο %s.</string>
     <string name="error_executing_su_command">Εμφανίστηκε σφάλμα κατά την εκτέλεση της εντολής Superuser. Το Carbon θα επιστρέψει στη λειτουργία χωρίς δικαιώματα root.\n\nΣφάλμα: %s</string>
     <string name="checking_superuser">Έλεγχος του Superuser...</string>
+    <string name="external_sdcard_error">Αδύνατη η ανάγνωση Εξωτερικής Κάρτας SD.</string>
+    <string name="system">Σύστημα</string>
+    <string name="messaging_storage">Αποθήκευση Μηνυμάτων</string>
 </resources>
