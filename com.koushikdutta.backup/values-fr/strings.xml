@@ -53,7 +53,7 @@
     <string name="sync_complete_more">La Synchronisation de vos applis est terminée.</string>
     <string name="error">Erreur</string>
     <string name="welcome">Bienvenue dans Carbon</string>
-    <string name="welcome_message">Bienvenue dans Carbon !\n\nCoonectons nous à votre compte Google afin que vous puissiez sauvegarder vers votre Google Drive et synchroniser avec vos autres périphériques !</string>
+    <string name="welcome_message">Bienvenue dans Carbon !\n\nConnectons-nous à votre compte Google afin que vous puissiez sauvegarder vers votre Google Drive et synchroniser avec vos autres périphériques !</string>
     <string name="no_thanks">Non Merci</string>
     <string name="no_problem">Aucun problème ! Vous pouvez quand même sauvegarder et restaurer depuis le stockage USB de votre téléphone.</string>
     <string name="no_backups">Aucune sauvegarde n\'a été trouvée sur votre %s. Vous devriez en faire une !</string>

@@ -153,4 +153,5 @@
     <string name="external_sdcard_error">Unable to read External SD Card.</string>
     <string name="system">System</string>
     <string name="messaging_storage">Messaging Storage</string>
+    <string name="whats_new">What\'s New</string>
 </resources>
