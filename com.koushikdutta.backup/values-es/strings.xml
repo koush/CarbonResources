@@ -148,4 +148,9 @@
     <string name="sdcard">Tarjeta SD</string>
     <string name="external_sdcard">Tarjeta SD externa</string>
     <string name="restore_external_sdcard_summary">Restaurar las aplicaciones de la tarjeta SD externa en %s.</string>
+    <string name="error_executing_su_command">Hubo un error ejecutando el comando Superusuario. Carbon volvera al modo no root.\n\nError: %s</string>
+    <string name="checking_superuser">Verificando superusuario...</string>
+    <string name="external_sdcard_error">Imposible leer la tarjeta SD externa.</string>
+    <string name="system">Sistema</string>
+    <string name="messaging_storage">Almacamiento de mensajería</string>
 </resources>
