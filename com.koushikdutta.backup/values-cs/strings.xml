@@ -140,5 +140,17 @@
     <string name="scheduled_backup_error">Při naplánovaném zálohování došlo k chybě.</string>
     <string name="scheduled_backup_click">Kliknutím provedete zálohu.</string>
     <string name="scheduled_backup_screen_locked">Uzamčení displeje nedovolilo provést zálohování.</string>
-
+    <string name="advanced">Pokročilé</string>
+    <string name="automation">Automatizace</string>
+    <string name="force_key_event_automation">Pro automatizaci potvrzování zálohování a obnovování generovat stisk klávesy místo kliknutí.</string>
+    <string name="settings">Nastavení</string>
+    <string name="connected_via_wifi">Připojeno prostřednictvím wifi</string>
+    <string name="sdcard">SD karta</string>
+    <string name="external_sdcard">Externí SD karta</string>
+    <string name="restore_external_sdcard_summary">Obnovení aplikací z externí SD karty na tomto %s.</string>
+    <string name="error_executing_su_command">Chyba při získávání root oprávnění. Carbon se přepne do režimu provozu bez root oprávnění.\n\nError: %s</string>
+    <string name="checking_superuser">Ověřuji root přístup...</string>
+    <string name="external_sdcard_error">Při čtení externí SD karty došlo k chybě.</string>
+    <string name="system">Systém</string>
+    <string name="messaging_storage">SMS zprávy</string>
 </resources>
