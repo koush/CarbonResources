@@ -154,4 +154,5 @@
     <string name="system">Systém</string>
     <string name="messaging_storage">Úložisko správ</string>
     <string name="whats_new">Čo je nové</string>
+    <string name="version">Verzia</string>
 </resources>
