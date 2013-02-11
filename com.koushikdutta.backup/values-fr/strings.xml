@@ -142,7 +142,7 @@
     <string name="scheduled_backup_screen_locked">L'écran de verrouillage a empêché la sauvegarde planifiée.</string>
     <string name="advanced">Avancé</string>
     <string name="automation">Automatisation</string>
-    <string name="force_key_event_automation">Utiliser les Key Events à la place des Tap Events pour l'automatisation des fenêtres de confirmation de Sauvegarde et Restauration.</string>
+    <string name="force_key_event_automation">Utiliser les Key Events à la place des Tap Events pour automatiser les confirmations de Sauvegarde et Restauration.</string>
     <string name="settings">Paramètres</string>
     <string name="connected_via_wifi">Connecté en Wifi</string>
     <string name="sdcard">Carte SD</string>
