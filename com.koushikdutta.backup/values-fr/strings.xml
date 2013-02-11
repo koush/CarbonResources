@@ -142,10 +142,17 @@
     <string name="scheduled_backup_screen_locked">L\'écran de verrouillage a empêché la sauvegarde planifiée.</string>
     <string name="advanced">Avancé</string>
     <string name="automation">Automatisation</string>
-    <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
+    <string name="force_key_event_automation">Utiliser les Key Events à la place des Tap Events pour automatiser les confirmations de Sauvegarde et Restauration.</string>
     <string name="settings">Paramètres</string>
     <string name="connected_via_wifi">Connecté en Wifi</string>
     <string name="sdcard">Carte SD</string>
     <string name="external_sdcard">Carte SD Externe</string>
     <string name="restore_external_sdcard_summary">Restaurer les applis depuis la carte SD externe sur ce %s.</string>
+    <string name="error_executing_su_command">Il y a eu une erreur en exécuant la commande Superuser. Carbon va fonctionner en mode Non-root.\n\nErreur: %s</string>
+    <string name="checking_superuser">Vérification de Superuser...</string>
+    <string name="external_sdcard_error">Impossible de lire la carte SD externe.</string>
+    <string name="system">Système</string>
+    <string name="messaging_storage">Données SMS</string>
+    <string name="whats_new">Nouveautés</string>
+    <string name="version">Version</string>
 </resources>
