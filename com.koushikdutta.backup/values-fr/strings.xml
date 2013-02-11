@@ -151,5 +151,5 @@
     <string name="checking_superuser">Vérification de Superuser...</string>
     <string name="external_sdcard_error">Impossible de lire la carte SD externe.</string>
     <string name="system">Système</string>
-    <string name="messaging_storage">Stockage de la Messagerie</string>
+    <string name="messaging_storage">Données SMS</string>
 </resources>
