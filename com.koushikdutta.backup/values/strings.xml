@@ -157,4 +157,5 @@
     <string name="version">Version</string>
     <string name="user_dictionary">User Dictionary</string>
     <string name="user_dictionary_summary">User defined words and predictive text input</string>
+    <string name="messaging_storage_summary">SMS and Call Logs</string>
 </resources>
