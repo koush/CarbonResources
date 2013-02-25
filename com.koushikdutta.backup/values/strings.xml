@@ -155,4 +155,6 @@
     <string name="messaging_storage">Messaging Storage</string>
     <string name="whats_new">What\'s New</string>
     <string name="version">Version</string>
+    <string name="user_dictionary">User Dictionary</string>
+    <string name="user_dictionary_summary">User defined words and predictive text input</string>
 </resources>
