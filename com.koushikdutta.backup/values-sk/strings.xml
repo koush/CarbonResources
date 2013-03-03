@@ -2,9 +2,9 @@
 
     <string name="app_name">Carbon</string>
     <string name="please_connect">Prosím spustite program Carbon na Vašom počítači.</string>
-    <string name="pc_download">PC Sťahovanie</string>
-    <string name="server_off">Carbon Server nebeží.</string>
-    <string name="server_on">Carbon Server beží.</string>
+    <string name="pc_download">PC sťahovanie</string>
+    <string name="server_off">Carbon server nebeží.</string>
+    <string name="server_on">Carbon server beží.</string>
     <string name="server_what">WiFi pripojenie nenájdené. Je Vaše WiFi zapnuté?</string>
     <string name="logout">Odhlásenie</string>
     <string name="login">Prihlásenie</string>
@@ -61,7 +61,7 @@
     <string name="delete_backup_confirm">Vymazať zálohu? Toto nie je možné vrátiť späť.</string>
     <string name="delete_backup_error">Došlo k chybe pri vymazávaní Vašej zálohy. Záznam s chybou bolo odoslaný do ClockworkModu.</string>
     <string name="root">Root</string>
-    <string name="root_permissions">Carbon bude teraz kontrolovať root práva. Ak sa objaví dialóg so žiadosťou o root práva, zvoľte prosím \"Vždy povoliť\".</string>
+    <string name="root_permissions">Carbon bude teraz kontrolovať root práva. Ak sa objaví dialóg so žiadosťou o root práva, zvoľte prosím \"Povoliť\".</string>
     <string name="android_backup">Android zálohovanie</string>
     <string name="dropbox_login_error">Nemožno sa prihlásiť do Dropboxu.</string>
     <string name="dropbox_login_complete">Prihlásili ste sa do Vášho Dropbox konta.</string>
