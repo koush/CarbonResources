@@ -1,8 +1,4 @@
 <resources>
-    <style name="CarbonTheme" parent="@style/AppTheme">
-        <item name="iconSize">@android:dimen/app_icon_size</item>
-    </style>
-
     <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
         <item name="iconSize">@android:dimen/app_icon_size</item>
         

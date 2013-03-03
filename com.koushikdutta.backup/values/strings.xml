@@ -158,4 +158,9 @@
     <string name="user_dictionary">User Dictionary</string>
     <string name="user_dictionary_summary">User defined words and predictive text input</string>
     <string name="messaging_storage_summary">SMS and Call Logs</string>
+    <string name="password_or_pin">Password or PIN</string>
+    <string name="device_encryption_password">Device Encryption Password</string>
+    <string name="device_encryption_password_summary">Configure the encryption password or Desktop Backup password used by your device.</string>
+    <string name="enter_encryption_password">Please enter this Android\'s password or PIN.</string>
+    <string name="sync_enter_encryption_password">To sync with this Android, please enter its password or PIN.</string>
 </resources>
