@@ -157,10 +157,10 @@
     <string name="version">Verzia</string>
     <string name="user_dictionary">Užívateľský slovník</string>
     <string name="user_dictionary_summary">Užívateľom definované slová a prediktívne vkladanie textu</string>
-    <string name="messaging_storage_summary">SMS a Call Logs</string>
+    <string name="messaging_storage_summary">SMS a denník hovorov</string>
     <string name="password_or_pin">Heslo alebo PIN</string>
-    <string name="device_encryption_password">Device Encryption Password</string>
-    <string name="device_encryption_password_summary">Configure the encryption password or Desktop Backup password used by your device.</string>
+    <string name="device_encryption_password">Šifrovacie heslo zariadenia</string>
+    <string name="device_encryption_password_summary">Nastaviť šifrovacie heslo alebo heslo zálohovania pre program Carbon používaného Vaším zariadením.</string>
     <string name="enter_encryption_password">Prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
     <string name="sync_enter_encryption_password">Pre synchronizáciu s týmto Android zariadením, prosím zadajte jeho heslo alebo PIN.</string>
 </resources>
