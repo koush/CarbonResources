@@ -2,9 +2,9 @@
 
     <string name="app_name">Carbon</string>
     <string name="please_connect">Prosím spustite program Carbon na Vašom počítači.</string>
-    <string name="pc_download">PC Sťahovanie</string>
-    <string name="server_off">Carbon Server nebeží.</string>
-    <string name="server_on">Carbon Server beží.</string>
+    <string name="pc_download">PC sťahovanie</string>
+    <string name="server_off">Carbon server nebeží.</string>
+    <string name="server_on">Carbon server beží.</string>
     <string name="server_what">WiFi pripojenie nenájdené. Je Vaše WiFi zapnuté?</string>
     <string name="logout">Odhlásenie</string>
     <string name="login">Prihlásenie</string>
