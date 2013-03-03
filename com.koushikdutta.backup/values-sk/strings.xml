@@ -19,7 +19,7 @@
     <string name="downloading">Sťahujem...</string>
     <string name="restoring">Obnovujem...</string>
     <string name="backingup">Zálohujem...</string>
-    <string name="restore_and_sync">Obnoviť a zosychr.</string>
+    <string name="restore_and_sync">Obnoviť a synchronizovať</string>
     <string name="restore">Obnoviť</string>
     <string name="selected_for_restore">Počet aplikácií vybraných na obnovovanie: %s</string>
     <string name="selected_for_backup">Počet aplikácií vybraných na zálohovanie: %s</string>
@@ -94,7 +94,7 @@
     <string name="adb_info">Vo Vašich Android nastaveniach nájdete nastavenie pre povolenie USB ladenia.\n\nPovoľte nastavenie a potom stlačte späť pre návrat do Carbonu.</string>
     <string name="connect_cancel">Zálohovanie Android aplikácií musí byť povolené pomocou programu Carbon.\n\nZrušenie tohto procesu bude mať za následok nesprávne pracovanie Carbonu.\n\nSte si istý, že chcete zrušiť?</string>
     <string name="send_link">Poslať odkaz</string>
-    <string name="connect_success">Zálohovanie Android aplik. povolené!\n\nVezmite prosím na vedomie: ak vypnete Vaše Android zariadenie, budete sa musieť znova pripojiť ku programu Carbonu pre povolenie zálohovania aplikácií.</string>
+    <string name="connect_success">Zálohovanie Android aplikácií povolené!\n\nVezmite prosím na vedomie: ak vypnete Vaše Android zariadenie, budete sa musieť znova pripojiť ku programu Carbonu pre povolenie zálohovania aplikácií.</string>
     <string name="no_logins">Nemožno sa prihlásiť. Nemáte nastavené žiadne Google konto.</string>
     <string name="superuser">Superuser</string>
     <string name="superuser_bleh">Superuser je zastaraný. Odporúča sa vykonať aktualizáciu na SuperSU.\n\nSuperSU nájdete v Google Play.</string>
@@ -155,4 +155,12 @@
     <string name="messaging_storage">Úložisko správ</string>
     <string name="whats_new">Čo je nové</string>
     <string name="version">Verzia</string>
+    <string name="user_dictionary">Užívateľský slovník</string>
+    <string name="user_dictionary_summary">Užívateľom definované slová a prediktívne vkladanie textu</string>
+    <string name="messaging_storage_summary">SMS a Call Logs</string>
+    <string name="password_or_pin">Heslo alebo PIN</string>
+    <string name="device_encryption_password">Device Encryption Password</string>
+    <string name="device_encryption_password_summary">Configure the encryption password or Desktop Backup password used by your device.</string>
+    <string name="enter_encryption_password">Prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
+    <string name="sync_enter_encryption_password">Pre synchronizáciu s týmto Android zariadením, prosím zadajte jeho heslo alebo PIN.</string>
 </resources>
