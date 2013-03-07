@@ -161,6 +161,4 @@
     <string name="password_or_pin">Jelszó vagy PIN</string>
     <string name="device_encryption_password">Eszköz titkosítás jelszó</string>
     <string name="device_encryption_password_summary">Állítsd be a titkosítás jelszavát vagy a Desktop Backup által az eszközön használt jelszót.</string>
-    <string name="enter_encryption_password">Kérjük add meg az Android eszköz jelszavát vagy a PIN számot.</string>
-    <string name="sync_enter_encryption_password">Az ezzel az Androiddal szinkronizáláshoz kérjük add meg a jelszót vagy a PIN számot.</string>
 </resources>
