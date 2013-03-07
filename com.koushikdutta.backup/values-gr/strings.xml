@@ -161,6 +161,4 @@
     <string name="password_or_pin">Κωδικός ή PIN</string>
     <string name="device_encryption_password">Κωδικός Κρυπτογράφησης Συσκευής</string>
     <string name="device_encryption_password_summary">Επεξεργασία του κωδικού κρυπτογράφησης ή κωδικός του Desktop Backup που χρησιμοποιεί η συσκευή σας.</string>
-    <string name="enter_encryption_password">Παρακαλώ, εισάγετε τον κωδικό ή το PIN αυτής της συσκευής Android.</string>
-    <string name="sync_enter_encryption_password">Για να συγχρονίσετε αυτή τη συσκευή Android, παρακαλώ εισάγετε τον κωδικό ή το PIN της.</string>
 </resources>

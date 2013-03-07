@@ -161,6 +161,9 @@
     <string name="password_or_pin">Password or PIN</string>
     <string name="device_encryption_password">Device Encryption Password</string>
     <string name="device_encryption_password_summary">Configure the encryption password or Desktop Backup password used by your device.</string>
-    <string name="enter_encryption_password">Please enter this Android\'s password or PIN.</string>
-    <string name="sync_enter_encryption_password">To sync with this Android, please enter its password or PIN.</string>
+    <string name="continue_automatically">Continue automatically next time</string>
+    <string name="app_downloads_required">%s apps must be downloaded from Google Play before restoring.\n\nClick the unchecked apps to be directed to their Google Play listing.</string>
+    <string name="backup_enter_encryption_password">Your Android is encrypted. To perform a backup, please enter this Android\'s password or PIN.</string>
+    <string name="restore_enter_encryption_password">Your Android is encrypted. To perform a restore, please enter this Android\'s password or PIN.</string>
+    
 </resources>

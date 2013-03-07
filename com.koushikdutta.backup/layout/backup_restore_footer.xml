@@ -27,12 +27,10 @@
         -->
 
         <LinearLayout
-            android:visibility="gone"
             android:paddingTop="4dp"
             android:paddingBottom="4dp"
             android:paddingRight="20dp"
             android:paddingLeft="20dp"
-            android:id="@+id/drag"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical" >

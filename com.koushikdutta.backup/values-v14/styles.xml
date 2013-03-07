@@ -1,6 +1,4 @@
 <resources>
-    <style name="AppBaseTheme" parent="@android:style/Theme.Holo.Light">
-        <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
-        <item name="listHeaderTextColor">@color/holo_blue_dark</item>
+    <style name="AndroidTheme" parent="@android:style/Theme.Holo.Light">
     </style>
 </resources>
