@@ -161,8 +161,6 @@
     <string name="password_or_pin">Heslo alebo PIN</string>
     <string name="device_encryption_password">Šifrovacie heslo zariadenia</string>
     <string name="device_encryption_password_summary">Nastaviť šifrovacie heslo alebo heslo zálohovania pre program Carbon používaného Vaším zariadením.</string>
-    <string name="enter_encryption_password">Prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
-    <string name="sync_enter_encryption_password">Pre synchronizáciu s týmto Android zariadením, prosím zadajte jeho heslo alebo PIN.</string>
     <string name="continue_automatically">Nabudúce pokračovať automaticky</string>
     <string name="app_downloads_required">Počet aplikácií, ktoré musia byť stiahnuté z Google Play pred obnovovaním: %s.\n\nKliknite na nezaškrtnuté aplikácie pre ich otvorenie na Google Play.</string>
     <string name="backup_enter_encryption_password">Vaše Android zariadenie je zašifrované. Ak chcete vykonať zálohovanie, prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
