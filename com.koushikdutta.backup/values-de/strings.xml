@@ -153,4 +153,16 @@
     <string name="external_sdcard_error">Externe SD-Karte konnte nicht gelesen werden</string>
     <string name="system">System</string>
     <string name="messaging_storage">Nachrichtenspeicher</string>
+    <string name="whats_new">Was ist neu?</string>
+    <string name="version">Version</string>
+    <string name="user_dictionary">Persönliches Wörterbuch</string>
+    <string name="user_dictionary_summary">Benutzerdefinierte Wörter und Wortvorschläge</string>
+    <string name="messaging_storage_summary">SMS und Anrufliste</string>
+    <string name="password_or_pin">Passwort oder PIN</string>
+    <string name="device_encryption_password">Geräte-Verschlüsselungs-Passwort</string>
+    <string name="device_encryption_password_summary">Das Verschlüsselungs-Passwort oder das Desktop-Sicherungs-Passwort des Gerätes festlegen</string>
+    <string name="continue_automatically">Beim nächsten Mal automatisch fortsetzen</string>
+    <string name="app_downloads_required">%s Apps müssen vor der Wiederherstellung von Google Play heruntergeladen werden.\n\nDie nicht markierten Apps berühren, um zu deren Google Play Seite zu navigieren</string>
+    <string name="backup_enter_encryption_password">Dieses Gerät ist verschlüsselt. Bitte PIN oder Passwort eingeben, um ein Backup durchzuführen</string>
+    <string name="restore_enter_encryption_password">Dieses Gerät ist verschlüsselt. Bitte PIN oder Passwort eingeben, um eine Wiederherstellung durchzuführen</string>
 </resources>
