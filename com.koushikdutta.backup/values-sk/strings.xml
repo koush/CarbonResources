@@ -165,4 +165,5 @@
     <string name="app_downloads_required">Počet aplikácií, ktoré musia byť stiahnuté z Google Play pred obnovovaním: %s.\n\nKliknite na nezaškrtnuté aplikácie pre ich otvorenie na Google Play.</string>
     <string name="backup_enter_encryption_password">Vaše Android zariadenie je zašifrované. Ak chcete vykonať zálohovanie, prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
     <string name="restore_enter_encryption_password">Vaše Android zariadenie je zašifrované. Ak chcete vykonať obnovovanie, prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
+    
 </resources>
