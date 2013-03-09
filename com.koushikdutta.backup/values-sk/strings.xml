@@ -122,7 +122,7 @@
     <string name="time">Čas</string>
     <string name="schedule_backup">Plánovaná záloha</string>
     <string name="delete_scheduled_backup">Vymazať plánovanú zálohu?</string>
-    <string name="no_scheduled">Žiadne naplánované zálohy.\nPre naplánovanie zálohovania:\n\n1) Prejdite na zoznam aplikácií\n2) Vyberte aplikácie, ktoré chcete zálohovať\n3) Kliknite na "Zálohovať"\n4)Vyberte "Plánovaná záloha"</string>
+    <string name="no_scheduled">Žiadne naplánované zálohy.\nPre naplánovanie zálohovania:\n\n1) Prejdite na zoznam aplikácií\n2) Vyberte aplikácie, ktoré chcete zálohovať\n3) Kliknite na \"Zálohovať"\\n4)Vyberte \"Plánovaná záloha"\</string>
     <string name="schedule_backup_premium">Plánované zálohy vyžadujú Premium verziu Carbonu.</string>
     <string name="buy_premium_summary">Zakúpte si Carbon Premium pre prístup ku všetkým funkciám Carbonu!</string>
     <string name="restore_complete_more_rate">Vaša obnova aplikácií je dokončená.\n\nOcenil by som, keby ste ohodnotili Carbon na Google Play!</string>
