@@ -165,4 +165,7 @@
     <string name="app_downloads_required">%s εφαρμογές ρέπει να εγκατασταθούν από το Google Play πριν επαναφερθούν.\n\nΠατήστε στις μη επιλεγμένες εφαρμογές για να μεταφερθείτε στην σελίδα τους στο Google Play.</string>
     <string name="backup_enter_encryption_password">Η συσκευή Android σας είναι κρυπτογραφημένη. Για να δημιουργήσετε αντίγραφο ασφαλείας, παρακαλώ εισάγετε τον κωδικό ή το PIN της συσκευής αυτής.</string>
     <string name="restore_enter_encryption_password">Η συσκευή Android σας είναι κρυπτογραφημένη. Για να επαναφέρετε αντίγραφο ασφαλείας, παρακαλώ εισάγετε τον κωδικό ή το PIN της συσκευής αυτής.</string>
+    <string name="logging_into_dropbox">Σύνδεση στο Dropbox...</string>
+    <string name="internal_storage">Εσωτερική Μνήμη</string>
+    <string name="restore_internal_storage_summary">Επαναφορά εφαρμογών από την εσωτερική μνήμη σε αυτό το %s.</string>
 </resources>
