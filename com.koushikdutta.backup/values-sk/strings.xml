@@ -21,7 +21,7 @@
     <string name="backingup">Zálohujem...</string>
     <string name="restore_and_sync">Obnoviť a synchronizovať</string>
     <string name="restore">Obnoviť</string>
-    <string name="selected_for_restore">Počet aplikácií vybraných na obnovovanie: %s</string>
+    <string name="selected_for_restore">Počet aplikácií vybraných na obnovenie: %s</string>
     <string name="selected_for_backup">Počet aplikácií vybraných na zálohovanie: %s</string>
     <string name="selected_for_sync">Počet aplikácií vybraných na synchronizovanie: %s</string>
     <string name="installed">Nainštalované</string>
@@ -77,7 +77,7 @@
     <string name="remember_this_list">Zapamätať si skupinu aplikácií</string>
     <string name="save_selection_as">Uložiť skupinu ako...</string>
     <string name="saved_lists">Uložené skupiny</string>
-    <string name="in_list">%s aplik. v skupine</string>
+    <string name="in_list">Počet aplikácií v skupine: %s</string>
     <string name="delete_list">Vymazať uloženú skupinu</string>
     <string name="delete_list_confirm">Vymazať uloženú skupinu? Toto nie je možné vrátiť späť.</string>
     <string name="no_apk">Táto záloha obsahuje len dáta aplikácie, a nie samotnú aplikáciu. Najskôr musíte stiahnuť aplikáciu z Google Play.\n\nStlačením tlačidla OK pokračujte na Google Play.</string>
@@ -125,7 +125,7 @@
     <string name="no_scheduled">Žiadne naplánované zálohy.\nPre naplánovanie zálohovania:\n\n1) Prejdite na zoznam aplikácií\n2) Vyberte aplikácie, ktoré chcete zálohovať\n3) Kliknite na Zálohovať\n4)Vyberte Plánovaná záloha</string>
     <string name="schedule_backup_premium">Plánované zálohy vyžadujú Premium verziu Carbonu.</string>
     <string name="buy_premium_summary">Zakúpte si Carbon Premium pre prístup ku všetkým funkciám Carbonu!</string>
-    <string name="restore_complete_more_rate">Vaša obnova aplik. je dokončená.\n\nAk máte chvíľku, ocenil by som, keby ste ohodnotili Carbon na Google Play!</string>
+    <string name="restore_complete_more_rate">Vaša obnova aplikácií je dokončená.\n\nOcenil by som, keby ste ohodnotili Carbon na Google Play!</string>
     <string name="rate_carbon">Ohodnotiť Carbon</string>
     <string name="swipe_up_info">Tip:\n\nVysunutím spodného panela získate prístup k ďalším možnostiam, ako napríklad Označiť všetko.</string>
     <string name="enable_ptp">Povoliť PTP režim</string>
@@ -162,8 +162,11 @@
     <string name="device_encryption_password">Šifrovacie heslo zariadenia</string>
     <string name="device_encryption_password_summary">Nastaviť šifrovacie heslo alebo heslo zálohovania pre program Carbon používaného Vaším zariadením.</string>
     <string name="continue_automatically">Nabudúce pokračovať automaticky</string>
-    <string name="app_downloads_required">Počet aplikácií, ktoré musia byť stiahnuté z Google Play pred obnovovaním: %s.\n\nKliknite na nezaškrtnuté aplikácie pre ich otvorenie na Google Play.</string>
+    <string name="app_downloads_required">Počet aplikácií, ktoré musia byť stiahnuté z Google Play pred obnovením: %s.\n\nKliknite na nezaškrtnuté aplikácie pre ich otvorenie na Google Play.</string>
     <string name="backup_enter_encryption_password">Vaše Android zariadenie je zašifrované. Ak chcete vykonať zálohovanie, prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
-    <string name="restore_enter_encryption_password">Vaše Android zariadenie je zašifrované. Ak chcete vykonať obnovovanie, prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
+    <string name="restore_enter_encryption_password">Vaše Android zariadenie je zašifrované. Ak chcete vykonať obnovenie, prosím zadajte heslo alebo PIN tohto Android zariadenia.</string>
+    <string name="logging_into_dropbox">Prihlasovanie do Dropboxu...</string>
+    <string name="internal_storage">Interné úložisko</string>
+    <string name="restore_internal_storage_summary">Obnovenie aplikácií z interného úložiska na tomto %s.</string>
     
 </resources>
