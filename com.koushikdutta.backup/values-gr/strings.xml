@@ -161,4 +161,8 @@
     <string name="password_or_pin">Κωδικός ή PIN</string>
     <string name="device_encryption_password">Κωδικός Κρυπτογράφησης Συσκευής</string>
     <string name="device_encryption_password_summary">Επεξεργασία του κωδικού κρυπτογράφησης ή κωδικός του Desktop Backup που χρησιμοποιεί η συσκευή σας.</string>
+    <string name="continue_automatically">Συνέχισε αυτόματα την επόμενη φορά</string>
+    <string name="app_downloads_required">%s εφαρμογές ρέπει να εγκατασταθούν από το Google Play πριν επαναφερθούν.\n\nΠατήστε στις μη επιλεγμένες εφαρμογές για να μεταφερθείτε στην σελίδα τους στο Google Play.</string>
+    <string name="backup_enter_encryption_password">Η συσκευή Android σας είναι κρυπτογραφημένη. Για να δημιουργήσετε αντίγραφο ασφαλείας, παρακαλώ εισάγετε τον κωδικό ή το PIN της συσκευής αυτής.</string>
+    <string name="restore_enter_encryption_password">Η συσκευή Android σας είναι κρυπτογραφημένη. Για να επαναφέρετε αντίγραφο ασφαλείας, παρακαλώ εισάγετε τον κωδικό ή το PIN της συσκευής αυτής.</string>
 </resources>
