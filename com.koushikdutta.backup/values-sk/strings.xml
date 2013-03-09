@@ -139,7 +139,7 @@
     <string name="scheduled_backup_complete">Plánovaná záloha bola dokončená.</string>
     <string name="scheduled_backup_error">Došlo k chybe počas Vašej plánovanej zálohy.</string>
     <string name="scheduled_backup_click">Kliknutím vykonáte zálohu.</string>
-    <string name="scheduled_backup_screen_locked">Uzamknutie obrazovky zabránilo vykonať plánovanú zálohu.</string>
+    <string name="scheduled_backup_screen_locked">Uzamknutie obrazovky zabránilo vykonaniu plánovanej zálohy.</string>
     <string name="advanced">Pokročilé</string>
     <string name="automation">Automatizácia</string>
     <string name="force_key_event_automation">Použiť stlačenie klávesy namiesto klikania pre automatizáciu potvrdzovania okna zálohovania/obnovovania.</string>
