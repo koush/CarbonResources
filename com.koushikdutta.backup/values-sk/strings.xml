@@ -56,7 +56,7 @@
     <string name="welcome_message">Vitajte v Carbone!\n\nPrihláste sa do Vášho Google konta, aby ste mohli zálohovať do Vášho Google Disku a synchronizovať s Vašimi ďalšími zariadeniami!</string>
     <string name="no_thanks">Nie, vďaka</string>
     <string name="no_problem">To nie je problém! Stále môžete zálohovať a obnovovať z USB úložiska Vašho zariadenia.</string>
-    <string name="no_backups">%s: nenájdené žiadne zálohy. Možno by ste mali spraviť nejaké!</string>
+    <string name="no_backups">%s: nenájdené žiadne zálohy. Možno by ste mali vytvoriť nejaké!</string>
     <string name="delete_backup">Vymazať zálohu</string>
     <string name="delete_backup_confirm">Vymazať zálohu? Toto nie je možné vrátiť späť.</string>
     <string name="delete_backup_error">Došlo k chybe pri vymazávaní Vašej zálohy. Záznam s chybou bolo odoslaný do ClockworkModu.</string>
