@@ -156,7 +156,7 @@
     <string name="whats_new">Nouveautés</string>
     <string name="version">Version</string>
     <string name="user_dictionary">Dictionnaire Utilisateur</string>
-    <string name="user_dictionary_summary">Mots et texte prédictif définis par l\'Utiliateur</string>
+    <string name="user_dictionary_summary">Mots et texte prédictif définis par l\'Utilisateur</string>
     <string name="messaging_storage_summary">Journaux d\'Appels et SMS</string>
     <string name="password_or_pin">Code ou Mot de Passe</string>
     <string name="device_encryption_password">Mot de Passe de chiffrement du périphérique</string>
@@ -165,5 +165,8 @@
     <string name="app_downloads_required">%s applis doivent être téléchargées depuis le Google Play avant la restauration.\n\nCliquez sur les applis non cochées pour être redirigé sur leur fiche Google Play.</string>
     <string name="backup_enter_encryption_password">Votre Android est chiffré. Pour réaliser une sauvegarde, entrez le code ou le mot de passe de cet Android.</string>
     <string name="restore_enter_encryption_password">Votre Android est chiffré. Pour réaliser une restauration, entrez le code ou le mot de passe de cet Android.</string>
+    <string name="logging_into_dropbox">Connexion à Dropbox...</string>
+    <string name="internal_storage">Stockage Interne</string>
+    <string name="restore_internal_storage_summary">Restaurer les applis sur ce %s depuis le stockage interne.</string>
     
 </resources>
