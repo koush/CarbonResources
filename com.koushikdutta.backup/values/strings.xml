@@ -168,5 +168,5 @@
     <string name="logging_into_dropbox">Logging into Dropbox...</string>
     <string name="internal_storage">Internal Storage</string>
     <string name="restore_internal_storage_summary">Restore apps from the internal storage on this %s.</string>
-    
+    <string name="shared_storage">Shared %s Storage</string>
 </resources>
