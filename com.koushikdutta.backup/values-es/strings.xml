@@ -5,7 +5,7 @@
     <string name="pc_download">Descarga para PC</string>
     <string name="server_off">Carbon Server no está funcionando.</string>
     <string name="server_on">Carbon Server está funcionando.</string>
-    <string name="server_what">Conexión WiFi no encontrada. ¿Tienes encendido tu WiFi?</string>
+    <string name="server_what">Conexión Wi-Fi no encontrada. ¿Tienes encendido tu Wi-Fi?</string>
     <string name="logout">Salir</string>
     <string name="login">Ingresar</string>
     <string name="login_to_sync">Ingresar para sincronizar con tus otros dispositivos.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Tu Android está en modo MTP. Necesitas cambiarlo a PTP.</string>
     <string name="ptp_info">En los ajustes de tu Android, encontrarás un ajuste para habilitar el modo Cámara (PTP).\n\nHabilita el ajuste, y presiona atras para volver a Carbon.</string>
     <string name="not_admin_info">El mecanismo de copia de Android sólo funciona con el dispositivo principal del usuario.\n\nCarbon se cerrará en este momento. Por favor abre Carbon con el dispositivo principal.</string>
-    <string name="wifi_only">Copiar sólo en WiFi</string>
+    <string name="wifi_only">Copiar sólo en Wi-Fi</string>
     <string name="plugged_in">Copiar sólo mientras se carga el dispositivo</string>
     <string name="set_password">Establecer una constraseña</string>
     <string name="desktop_backup_password_info">Un error ocurrió mientras se realizaba la copia de tu aplicación.\n\nEste error pudo haber sido causado por tener una contraseña de copia al ordenador.\n\nPor favor verifica que tu contraseña de copia al ordenador esté vacía, después presiona atras para retornar a Carbon.</string>

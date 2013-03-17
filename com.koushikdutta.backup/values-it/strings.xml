@@ -4,7 +4,7 @@
     <string name="pc_download">PC Download</string>
     <string name="server_off">Il Server di Carbon non è in esecuzione.</string>
     <string name="server_on">Il Server di Carbon è in esecuzione.</string>
-    <string name="server_what">Nessuna connessione WiFi. Hai il WiFi acceso?</string>
+    <string name="server_what">Nessuna connessione Wi-Fi. Hai il Wi-Fi acceso?</string>
     <string name="logout">Logout</string>
     <string name="login">Log In</string>
     <string name="login_to_sync">Effettua il Log In per sincronizzare con gli altri dispositivi.</string>
@@ -131,7 +131,7 @@
     <string name="status_ptp_off">La connessioned USB è in modalità MTP. Dovresti cambiarla in PTP.</string>
     <string name="ptp_info">Tra le impostazioni di Android, ne troverai una per abilitare la modalità Camera (PTP).\n\nAbilita L\'opzione, quindi premi indietro per tornare a Carbon.</string>
     <string name="not_admin_info">Il meccanismo del backup su Android funziona solo con L\'utente primario del dispositivo. Carbon si chiuderà ora. Apri Carbon con L\'utente primario!</string>
-    <string name="wifi_only">Backup solo via WiFi</string>
+    <string name="wifi_only">Backup solo via Wi-Fi</string>
     <string name="plugged_in">Backup sono sotto carica</string>
     <string name="set_password">Imposta Password</string>
     <string name="desktop_backup_password_info">E\' avvenuto un errore durante il backup.\n\nQuesto errore potrevve essere causato dalL\'avere impostato una password per il backup dal desktop.\n\nVerifica che la password per il backup sul desktop sia vuota, quindi premi indietro per tornare a Carbon.</string>

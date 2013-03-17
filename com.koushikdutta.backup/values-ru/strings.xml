@@ -5,7 +5,7 @@
     <string name="pc_download">Загрузка на компьютер</string>
     <string name="server_off">Сервер Carbon не запущен.</string>
     <string name="server_on">Сервер Carbon запущен.</string>
-    <string name="server_what">WiFi подключение не найдено. WiFi включен?</string>
+    <string name="server_what">Wi-Fi подключение не найдено. Wi-Fi включен?</string>
     <string name="logout">Выйти</string>
     <string name="login">Войти</string>
     <string name="login_to_sync">Войдите для синхронизации с другими вашими устройствами.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Ваш Android USB в MTP режиме. Возможно, вам придется переключиться в PTP.</string>
     <string name="ptp_info">В настройках Android, вы найдете пункт включения камеры в (PTP) режиме.\n\nВключите её и вернитесь в Carbon.</string>
     <string name="not_admin_info">Резервирование Android работает только у владельца.\n\nCarbon сейчас закроется. Пожалуйста, откройте Carbon как владелец!</string>
-    <string name="wifi_only">Резервирование только по WiFi</string>
+    <string name="wifi_only">Резервирование только по Wi-Fi</string>
     <string name="plugged_in">Резервирование только при включенной зарядке</string>
     <string name="set_password">Установить пароль</string>
     <string name="desktop_backup_password_info">Произошла ошибка при резервировании приложения.\n\nЭто может быть вызвано установкой пароля.\n\nПожалуйста, проверьте что пароль пустой, затем вернитесь в Carbon.</string>

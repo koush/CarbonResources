@@ -5,7 +5,7 @@
     <string name="pc_download">PC sťahovanie</string>
     <string name="server_off">Carbon server nebeží.</string>
     <string name="server_on">Carbon server beží.</string>
-    <string name="server_what">WiFi pripojenie nenájdené. Je Vaše WiFi zapnuté?</string>
+    <string name="server_what">Wi-Fi pripojenie nenájdené. Je Vaše Wi-Fi zapnuté?</string>
     <string name="logout">Odhlásenie</string>
     <string name="login">Prihlásenie</string>
     <string name="login_to_sync">Prihlásiť sa pre synchr. s vašimi ďalšími zariadeniami.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Váš Android USB je v režime MTP. Možno budete musieť prepnúť do PTP.</string>
     <string name="ptp_info">Vo Vašich Android nastaveniach nájdete nastavenie pre povolenie režimu Fotoaparát (PTP).\n\nPovoľte nastavenie a potom stlačte späť pre návrat do Carbonu.</string>
     <string name="not_admin_info">Zálohovací Android mechanizmus vyžaduje primárneho užívateľa zariadenia.\n\nCarbon sa teraz ukončí. Prosím otvorte Carbon ako primárny používateľ!</string>
-    <string name="wifi_only">Zálohovať len na WiFi</string>
+    <string name="wifi_only">Zálohovať len na Wi-Fi</string>
     <string name="plugged_in">Zálohovať len pri nabíjaní</string>
     <string name="set_password">Nastaviť heslo</string>
     <string name="desktop_backup_password_info">Došlo k chybe pri zálohovaní Vaších aplikácií.\n\nTáto chyba mohla byť spôsobená tým, že máte nastavené heslo zálohovania.\n\nProsím overte či heslo zálohovania je prázdne a potom stlačte späť pre návrat do Carbonu.</string>

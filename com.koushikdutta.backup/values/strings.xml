@@ -5,7 +5,7 @@
     <string name="pc_download">PC Download</string>
     <string name="server_off">Carbon Server is not running.</string>
     <string name="server_on">Carbon Server is running.</string>
-    <string name="server_what">WiFi connection not found. Is your WiFi on?</string>
+    <string name="server_what">Wi-Fi connection not found. Is your Wi-Fi on?</string>
     <string name="logout">Logout</string>
     <string name="login">Login</string>
     <string name="login_to_sync">Login to sync with your other devices.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Your Android USB is in MTP mode. You may need to switch it to PTP.</string>
     <string name="ptp_info">In your Android Settings, you will find a setting to enable Camera (PTP) mode.\n\nEnable the setting, then press back to return to Carbon.</string>
     <string name="not_admin_info">Android\'s backup mechanism only works with the primary device user.\n\nCarbon will now exit. Please open Carbon with the primary user!</string>
-    <string name="wifi_only">Backup only on WiFi</string>
+    <string name="wifi_only">Backup only on Wi-Fi</string>
     <string name="plugged_in">Backup only when charging</string>
     <string name="set_password">Set Password</string>
     <string name="desktop_backup_password_info">An error occurred while performing your app backup.\n\nThis error may be caused by having a Desktop Backup Password.\n\nPlease verify your Desktop Backup Password is a blank password, then press back to return to Carbon.</string>
@@ -144,7 +144,7 @@
     <string name="automation">Automation</string>
     <string name="force_key_event_automation">Use key events instead of tap events to automate the backup and restore confirmation windows.</string>
     <string name="settings">Settings</string>
-    <string name="connected_via_wifi">Connected via Wifi</string>
+    <string name="connected_via_wifi">Connected via Wi-Fi</string>
     <string name="sdcard">SD Card</string>
     <string name="external_sdcard">External SD Card</string>
     <string name="restore_external_sdcard_summary">Restore apps from the external SD Card in this %s.</string>
@@ -169,7 +169,8 @@
     <string name="internal_storage">Internal Storage</string>
     <string name="restore_internal_storage_summary">Restore apps from the internal storage on this %s.</string>
     <string name="shared_storage">Shared %s Storage</string>
-    <string name="wifi_not_connected">WiFi connection was unavailable for scheduled backup.</string>
+    <string name="wifi_not_connected">Wi-Fi connection was unavailable for scheduled backup.</string>
     <string name="not_charging">Device not charging prevented the scheduled backup.</string>
     <string name="backup_complete_errors_more">Some errors occured during backup. Click Backup to attempt to backup the remaining apps.</string>
+    <string name="wifi">Wi-Fi</string>
 </resources>

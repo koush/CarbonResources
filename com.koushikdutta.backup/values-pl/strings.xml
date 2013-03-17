@@ -5,7 +5,7 @@
     <string name="pc_download">Połączenie z PC</string>
     <string name="server_off">Carbon Server nie jest aktywny.</string>
     <string name="server_on">Carbon Server aktywny.</string>
-    <string name="server_what">Brak połączenia WiFi. Czy WiFi jest aktywne?</string>
+    <string name="server_what">Brak połączenia Wi-Fi. Czy Wi-Fi jest aktywne?</string>
     <string name="logout">Wyloguj się</string>
     <string name="login">Zaloguj się</string>
     <string name="login_to_sync">Zaloguj się aby zsynchronizować z innym urządzeniem.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Your Android USB is in MTP mode. You may need to switch it to PTP.</string>
     <string name="ptp_info">In your Android Settings, you will find a setting to enable Camera (PTP) mode.\n\nEnable the setting, then press back to return to Carbon.</string>
     <string name="not_admin_info">Android\'s backup mechanism only works with the primary device user.\n\nCarbon will now exit. Please open Carbon with the primary user!</string>
-    <string name="wifi_only">Twórz kopie tylko podczas połączenia WiFi</string>
+    <string name="wifi_only">Twórz kopie tylko podczas połączenia Wi-Fi</string>
     <string name="plugged_in">Twórz kopie tylko podczas ładowania</string>
     <string name="set_password">Ustaw hasło</string>
     <string name="desktop_backup_password_info">An error occurred while performing your app backup.\n\nThis error may be caused by having a Desktop Backup Password.\n\nPlease verify your Desktop Backup Password is a blank password, then press back to return to Carbon.</string>

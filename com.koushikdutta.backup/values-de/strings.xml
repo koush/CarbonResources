@@ -5,7 +5,7 @@
     <string name="pc_download">PC-Download</string>
     <string name="server_off">Carbon-Server ist nicht gestartet</string>
     <string name="server_on">Carbon-Server ist gestartet</string>
-    <string name="server_what">Keine WLAN-Verbindung gefunden. Ist WiFi aktiv?</string>
+    <string name="server_what">Keine WLAN-Verbindung gefunden. Ist Wi-Fi aktiv?</string>
     <string name="logout">Abmelden</string>
     <string name="login">Anmelden</string>
     <string name="login_to_sync">Anmelden um Geräte zu synchronisieren</string>
