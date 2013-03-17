@@ -169,4 +169,7 @@
     <string name="internal_storage">Internal Storage</string>
     <string name="restore_internal_storage_summary">Restore apps from the internal storage on this %s.</string>
     <string name="shared_storage">Shared %s Storage</string>
+    <string name="wifi_not_connected">Not connected to WiFi</string>
+    <string name="not_charging">Not charging</string>
+    <string name="backup_complete_errors_more">Some errors occured during backup. Click Backup to attempt to backup the remaining apps.</string>
 </resources>
