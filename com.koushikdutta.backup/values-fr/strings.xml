@@ -171,7 +171,7 @@
     <string name="shared_storage">Stockage Partagé %s</string>
     <string name="wifi_not_connected">la connexion Wi-Fi était indisponible pour la sauvegarde planifiée.</string>
     <string name="not_charging">La sauvegarde planifiée n'a pas pu être réalisée car le périphérique n'était pas en charge.</string>
-    <string name="backup_complete_errors_more">Des erreurs sont survenus pendant la sauvegarde. Cliquez sur Sauvegarder pour tenter de sauvegarder les applis restantes.</string>
+    <string name="backup_complete_errors_more">Des erreurs sont survenues pendant la sauvegarde. Cliquez sur Sauvegarder pour tenter de sauvegarder les applis restantes.</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_summary">Paramètres de connexions réseaux Wi-Fi</string>
 </resources>
