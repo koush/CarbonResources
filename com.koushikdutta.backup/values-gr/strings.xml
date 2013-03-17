@@ -5,7 +5,7 @@
     <string name="pc_download">PC Download</string>
     <string name="server_off">Ο Carbon Server δεν εκτελείται.</string>
     <string name="server_on">Ο Carbon Server εκτελείται.</string>
-    <string name="server_what">Δεν βρέθηκε WiFi σύνδεση. Είναι ανοχτό το WiFi σας;</string>
+    <string name="server_what">Δεν βρέθηκε Wi-Fi σύνδεση. Είναι ανοχτό το Wi-Fi σας;</string>
     <string name="logout">Αποσύνδεση</string>
     <string name="login">Σύνδεση</string>
     <string name="login_to_sync">Συνδεθείτε, για να συγχρονιστείτε με τις άλλες συσκευές σας.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Το USB του Android σας είναι σε λειτουργία MTP. Θα χρειαστεί να την αλλάξετε σε PTP.</string>
     <string name="ptp_info">Στις Ρυθμίσεις Android, θα βρείτε για να ενεργοποιήσετε τη σύνδεση ως Φωτογραφική μηχανή (PTP).\n\nΕπιλέξτε τη ρύθμιση, κατόπιν πατήστε "πίσω" για να γυρίσετε στο Carbon.</string>
     <string name="not_admin_info">Ο μηχανισμός αντιγάφων ασφαλείας του Android λειτουργεί μόνο με τον πρωτεύοντα λογαριασμό χρήστη.\n\nΤο Carbon θα τερματίσει. Παρακαλώ ανοίξτε το Carbon μέσω του πρωτεύοντα χρήστη!</string>
-    <string name="wifi_only">Αντιγραφή μόνο μέσω WiFi</string>
+    <string name="wifi_only">Αντιγραφή μόνο μέσω Wi-Fi</string>
     <string name="plugged_in">Αντιγραφή μόνο κατά τη φόρτιση</string>
     <string name="set_password">Ορισμός Κωδικού Ασφαλείας</string>
     <string name="desktop_backup_password_info">Παρουσιάστηκε σφάλμα κατά την αντιγραφή των εφαρμογών σας.\n\nΤο σφάλμα αυτό μπορεί να οφείλεται σε κάποιον ενεργό Κωδικό Ασφαλείας του Desktop Backup.\n\nΠαρακαλώ βεβαιωθείτε πως ο Κωδικός Ασφαλείας του Desktop Backup είναι κενός, κατόπιν πατήστε πίσω για να γυρίσετε στο Carbon.</string>
@@ -144,7 +144,7 @@
     <string name="automation">Αυτοματισμός</string>
     <string name="force_key_event_automation">Χρήση συμβάντων πλήκτρων αντί πατημάτων για την αυτοματοποίηση των παραθύρων επιβεβαίωσης αντιγραφής και επαναφοράς.</string>
     <string name="settings">Ρυθμίσεις</string>
-    <string name="connected_via_wifi">Συνδεμένο μέσω Wifi</string>
+    <string name="connected_via_wifi">Συνδεμένο μέσω Wi-Fi</string>
     <string name="sdcard">Κάρτα SD</string>
     <string name="external_sdcard">Εξωτερική Κάρτα SD</string>
     <string name="restore_external_sdcard_summary">Επαναφορά εφαρμογών από την εξωτερική κάρτα SD Card στο %s.</string>

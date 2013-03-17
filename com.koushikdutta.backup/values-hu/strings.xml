@@ -5,7 +5,7 @@
     <string name="pc_download">PC letöltés</string>
     <string name="server_off">A Carbon szerver nem működik.</string>
     <string name="server_on">A Carbon szerver működik.</string>
-    <string name="server_what">WiFi kapcsolat nem található. Be van kapcsolva a WiFi?</string>
+    <string name="server_what">Wi-Fi kapcsolat nem található. Be van kapcsolva a Wi-Fi?</string>
     <string name="logout">Kilépés</string>
     <string name="login">Belépés</string>
     <string name="login_to_sync">A többi eszközzel szinkronizáláshoz lépj be.</string>
@@ -132,7 +132,7 @@
     <string name="status_ptp_off">Az Android USB MTP módban van. Szükséged lesz a PTP-re átállításra.</string>
     <string name="ptp_info">Az Android beállításokban találod meg a kamera (PTP) módot.\n\nEngedélyezd a beállítást, majd nyomd le a vissza gombot a Carbon-ra visszatéréshez.</string>
     <string name="not_admin_info">Az Android mentési mechanizmusa csak az eszköz elsődleges felhasználójával működik.\n\nA Carbon most kilép. Kérjük, hogy a Carbon-t az elsődleges felhasználóval indítsd el!</string>
-    <string name="wifi_only">Mentés csak WiFi-n</string>
+    <string name="wifi_only">Mentés csak Wi-Fi-n</string>
     <string name="plugged_in">Mentés csak akkutöltés közben</string>
     <string name="set_password">Jelszó</string>
     <string name="desktop_backup_password_info">Az alkalmazások mentése közben hiba történt.\n\nEzt valószínűleg a Desktop Backup jelszó okozta.\n\nEllenőrizd, hogy a Desktop Backup jelszó üres, majd a vissza gomb lenyomásával térj vissza a Carbon alkalmazásba.</string>
@@ -144,7 +144,7 @@
     <string name="automation">Automatizálás</string>
     <string name="force_key_event_automation">Érintés helyett eseményekhez kötött időzített mentések és helyreállítások automatizálásának megerősítése.</string>
     <string name="settings">Beállítások</string>
-    <string name="connected_via_wifi">Wifi-n kapcsolódva</string>
+    <string name="connected_via_wifi">Wi-Fi-n kapcsolódva</string>
     <string name="sdcard">SD kártya</string>
     <string name="external_sdcard">Külső SD kártya</string>
     <string name="restore_external_sdcard_summary">Alkalmazások helyreállítása SD kártyáról a(z) %s eszközön.</string>

@@ -5,7 +5,7 @@
     <string name="pc_download">PC Download</string>
     <string name="server_off">Carbon Server is niet actief.</string>
     <string name="server_on">Carbon Server is actief.</string>
-    <string name="server_what">WiFi-verbinding niet gevonden. Staat WiFi aan?</string>
+    <string name="server_what">Wi-Fi-verbinding niet gevonden. Staat Wi-Fi aan?</string>
     <string name="logout">Log uit</string>
     <string name="login">Log in</string>
     <string name="login_to_sync">Log in om te synchroniseren met uw andere apparaten.</string>
@@ -136,7 +136,7 @@
     <string name="status_ptp_off">Uw Android USB staat in MTP-modus. Het kan nodig zijn om deze over te schakelen naar PTP.</string>
     <string name="ptp_info">In uw Android-instellingen, vindt u een instelling om de Camera (PTP) modus in te schakelen.\n\nSchakel de instelling in en druk op TERUG om terug te keren naar Carbon.</string>
     <string name="not_admin_info">Android\'s back-up systeem werkt alleen met de primaire apparaatgebruiker.\n\nCarbon wordt nu afgesloten. Open Carbon a.u.b. met de primaire gebruiker!</string>
-    <string name="wifi_only">Backup alleen via WiFi</string>
+    <string name="wifi_only">Backup alleen via Wi-Fi</string>
     <string name="plugged_in">Backup alleen tijdens het opladen</string>
     <string name="set_password">Stel Wachtword in</string>
     <string name="desktop_backup_password_info">Er is een fout opgetreden tijdens het back-uppen van uw apps.\n\nDeze fout kan veroorzaakt worden doordat u een Desktop Backup Wachtwoord ingesteld heeft.\n\nControleer of uw Desktop Backup Wachtwoord leeg is, en druk op TERUG om terug te keren naar Carbon.</string>
@@ -148,7 +148,7 @@
     <string name="automation">Automatisering</string>
     <string name="force_key_event_automation">Gebruik toestdrukken in plaats van schermdrukken om het back-uppen en herstellen te bevestigen.</string>
     <string name="settings">Instellingen</string>
-    <string name="connected_via_wifi">Verbonden via WiFi</string>
+    <string name="connected_via_wifi">Verbonden via Wi-Fi</string>
     <string name="sdcard">SD Card</string>
     <string name="external_sdcard">Externe SD Card</string>
     <string name="restore_external_sdcard_summary">Herstel apps van de externe SD Card in deze %s.</string>
