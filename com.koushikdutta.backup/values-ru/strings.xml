@@ -168,5 +168,10 @@
     <string name="logging_into_dropbox">Вход в Dropbox...</string>
     <string name="internal_storage">Внутренняя память</string>
     <string name="restore_internal_storage_summary">Восстановление приложений из внутренней памяти %s.</string>
+    <string name="shared_storage">Хранилище %s</string>
+    <string name="wifi_not_connected">Не было найдено WiFi подключения, что помешало резервированию по расписанию.</string>
+    <string name="not_charging">Устройство не находилось на зарядке, что помешало резервированию по расписанию.</string> 
+    <string name="backup_complete_errors_more">Во время резервирования возникли ошибки. Нажмите Резервирование чтобы попытаться продолжить резервирование остальных приложений.</string>
+    <string name="wifi_summary">Настройки Wi-Fi подключения</string> 
     
 </resources>
