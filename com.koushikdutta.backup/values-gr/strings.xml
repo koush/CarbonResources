@@ -144,7 +144,7 @@
     <string name="automation">Αυτοματισμός</string>
     <string name="force_key_event_automation">Χρήση συμβάντων πλήκτρων αντί πατημάτων για την αυτοματοποίηση των παραθύρων επιβεβαίωσης αντιγραφής και επαναφοράς.</string>
     <string name="settings">Ρυθμίσεις</string>
-    <string name="connected_via_wifi">Συνδεμένο μέσω Wifi</string>
+    <string name="connected_via_wifi">Συνδεμένο μέσω Wi-Fi</string>
     <string name="sdcard">Κάρτα SD</string>
     <string name="external_sdcard">Εξωτερική Κάρτα SD</string>
     <string name="restore_external_sdcard_summary">Επαναφορά εφαρμογών από την εξωτερική κάρτα SD Card στο %s.</string>

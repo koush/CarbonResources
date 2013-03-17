@@ -144,7 +144,7 @@
     <string name="automation">Automatyzacja</string>
     <string name="force_key_event_automation">Użyj klawiszy zamiast dotyku do automatycznego zatwierdzania pojawiających się okien podczas tworzenia kopii i przywracania.</string>
     <string name="settings">Ustawienia</string>
-    <string name="connected_via_wifi">Połączono przez Wifi</string>
+    <string name="connected_via_wifi">Połączono przez Wi-Fi</string>
     <string name="sdcard">Karta SD</string>
     <string name="external_sdcard">Zewnętrzna Karta SD</string>
     <string name="restore_external_sdcard_summary">Przywróć aplikacje z pamięci karty SD tego urządzenia: %s.</string>

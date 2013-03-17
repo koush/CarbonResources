@@ -144,7 +144,7 @@
     <string name="automation">Automatización</string>
     <string name="force_key_event_automation">Usa los eventos clave en lugar de los eventos de toque para automatizar la copia y restaurar las ventanas de confirmación.</string>
     <string name="settings">Ajustes</string>
-    <string name="connected_via_wifi">Conectado por Wifi</string>
+    <string name="connected_via_wifi">Conectado por Wi-Fi</string>
     <string name="sdcard">Tarjeta SD</string>
     <string name="external_sdcard">Tarjeta SD externa</string>
     <string name="restore_external_sdcard_summary">Restaurar las aplicaciones de la tarjeta SD externa en %s.</string>

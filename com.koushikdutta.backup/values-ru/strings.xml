@@ -144,7 +144,7 @@
     <string name="automation">Автоматизация</string>
     <string name="force_key_event_automation">Использовать кнопочные сочетания вместо тапов для подтверждения.</string>
     <string name="settings">Настройки</string>
-    <string name="connected_via_wifi">Соединен по Wifi</string>
+    <string name="connected_via_wifi">Соединен по Wi-Fi</string>
     <string name="sdcard">SD карта</string>
     <string name="external_sdcard">Внешняя SD карта</string>
     <string name="restore_external_sdcard_summary">Восстановление приложение с внешней SD карты на %s.</string>

@@ -144,7 +144,7 @@
     <string name="automation">Automatizácia</string>
     <string name="force_key_event_automation">Použiť stlačenie klávesy namiesto klikania pre automatizáciu potvrdzovania okna zálohovania/obnovovania.</string>
     <string name="settings">Nastavenia</string>
-    <string name="connected_via_wifi">Pripojené cez Wifi</string>
+    <string name="connected_via_wifi">Pripojené cez Wi-Fi</string>
     <string name="sdcard">SD karta</string>
     <string name="external_sdcard">Externá SD karta</string>
     <string name="restore_external_sdcard_summary">Obnovenie aplikácií z externej SD karty na tomto %s.</string>
