@@ -176,5 +176,5 @@
     <string name="wifi_summary">Wi-Fi network connection settings</string>
     <string name="last_backup">Last backup: %s</string>
     <string name="days_ago">%s days ago</string>
-    <string name="today">Today</string>
+    <string name="hours_ago">%s hours ago</string>
 </resources>
