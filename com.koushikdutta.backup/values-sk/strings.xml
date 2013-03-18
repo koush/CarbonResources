@@ -174,4 +174,8 @@
     <string name="backup_complete_errors_more">V priebehu zálohovania došlo k niektorým chybám. Kliknite na tlačidlo \"Zálohovať\", aby sa Carbon pokúsil zálohovať zvyšné aplikácie.</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_summary">Nastavenia Wi-Fi pripojenia</string>
+    <string name="last_backup">Posl. záloh.: %s</string>
+    <string name="days_ago">pred %s dňami</string>
+    <string name="hours_ago">pred %s hodinami</string>
+    <string name="minutes_ago">pred %s minútami</string>
 </resources>
