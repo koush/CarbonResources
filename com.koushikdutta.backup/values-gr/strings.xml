@@ -168,4 +168,11 @@
     <string name="logging_into_dropbox">Σύνδεση στο Dropbox...</string>
     <string name="internal_storage">Εσωτερική Μνήμη</string>
     <string name="restore_internal_storage_summary">Επαναφορά εφαρμογών από την εσωτερική μνήμη σε αυτό το %s.</string>
+    <string name="shared_storage">Κοινόχρηστη Μνήμη %s</string>
+    <string name="wifi_not_connected">Η σύνδεση Wi-Fi για την προγραμματισμένη αντιγραφή ασφαλείας, δεν ήταν εφικτή.</string>
+    <string name="not_charging">Η προγραμματισμένη αντιγραφή ασφαλείας ματαιώθηκε λόγω μη φόρτισης της συσκευής.</string>
+    <string name="backup_complete_errors_more">Κατά την αντιγραφή, παρουσιάστηκαν κάποια σφάλματα. Επιλέξετε Αντιγραφή για απόπειρα αντιγραφής των υπόλοιπων εφαρμογών.</string>
+    <string name="wifi">Wi-Fi</string>
+    <string name="wifi_summary">Ρυθμίσεις σύνδεσης δικτύου Wi-Fi</string>
+    <string name="last_backup">Τελευταίο αντίγραφο: %s</string>
 </resources>
