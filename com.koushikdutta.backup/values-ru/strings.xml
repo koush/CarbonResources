@@ -172,6 +172,10 @@
     <string name="wifi_not_connected">Не было найдено WiFi подключения, что помешало резервированию по расписанию.</string>
     <string name="not_charging">Устройство не находилось на зарядке, что помешало резервированию по расписанию.</string> 
     <string name="backup_complete_errors_more">Во время резервирования возникли ошибки. Нажмите Резервирование чтобы попытаться продолжить резервирование остальных приложений.</string>
-    <string name="wifi_summary">Настройки Wi-Fi подключения</string> 
+    <string name="wifi_summary">Настройки Wi-Fi подключения</string>
+    <string name="last_backup">Последнее резервирование было: %s</string>
+    <string name="days_ago">%s дней назад</string>
+    <string name="hours_ago">%s часов назад</string>
+    <string name="minutes_ago">%s минут назад</string>
     
 </resources>
