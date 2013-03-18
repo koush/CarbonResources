@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Carbon Premium</string>
+
+    <string name="install_free_text">Carbon Premium jest tylko kluczem licencji dla aplikacji Carbon. Musisz zainstalować także darmową wersję znajdującą się w Google Play. Ta ikona zniknie kiedy darmowa wersja zostanie zainstalowana. Dziękuję za bycie użytkownikiem Premium! :)</string>
+    <string name="thanks">Carbon Premium jest tylko kluczem licencji dla aplikacji Carbon. Musisz zachować zainstalowaną darmową wersję programu. Ta ikona zostanie usunięta z listy aplikacji po następnym restarcie aplikacji Home. Dziękuję!</string>
+    
+</resources>
