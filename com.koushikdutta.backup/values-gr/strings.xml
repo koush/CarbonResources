@@ -174,4 +174,5 @@
     <string name="backup_complete_errors_more">Κατά την αντιγραφή, παρουσιάστηκαν κάποια σφάλματα. Επιλέξετε Αντιγραφή για απόπειρα αντιγραφής των υπόλοιπων εφαρμογών.</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_summary">Ρυθμίσεις σύνδεσης δικτύου Wi-Fi</string>
+    <string name="last_backup">Τελευταίο αντίγραφο: %s</string>
 </resources>

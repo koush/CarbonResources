@@ -174,5 +174,7 @@
     <string name="backup_complete_errors_more">Some errors occured during backup. Click Backup to attempt to backup the remaining apps.</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_summary">Wi-Fi network connection settings</string>
-    <string name="last_backup_days_ago">Last backup: %s days ago</string>
+    <string name="last_backup">Last backup: %s</string>
+    <string name="days_ago">%s days ago</string>
+    <string name="today">Today</string>
 </resources>
