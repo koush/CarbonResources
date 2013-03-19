@@ -28,7 +28,7 @@
     <string name="not_installed">Не установлено</string>
     <string name="app_download_required">Необходима загрузка приложения</string>
     <string name="app_protected">Это приложение защищено от резервирования. Пожалуйста, загрузите его из Google Play перед синхронизацией данных приложения.\n\nНажмите OK чтобы перейти в Google Play.</string>
-    <string name="cloud">Облако</string>
+    <string name="cloud">Облачные сервисы</string>
     <string name="dropbox">Dropbox</string>
     <string name="drive">Google Диск</string>
     <string name="no_devices">Устройства не найдены</string>
@@ -73,7 +73,7 @@
     <string name="deselect_all">Снять все отметки</string>
     <string name="data_only_short">(Только данные приложения)</string>
     <string name="data_only">Только данные приложения (меньше резервная копия)</string>
-    <string name="data_only_info">Вам будет напомнено о том, чтобы загрузить приложение из Google Play перед восстановление.</string>
+    <string name="data_only_info">Вам будет напомнено о том, чтобы загрузить приложение из Google Play перед восстановлением.</string>
     <string name="remember_this_list">Сохранить группу</string>
     <string name="save_selection_as">Сохранить группу как...</string>
     <string name="saved_lists">Сохраненные группы</string>
@@ -113,7 +113,7 @@
     <string name="recover_purchase_error">При восстановлении лицензии произошла ошибка.</string>
     <string name="no_license_found_email">Не найдена лицензия для этого электронного адреса PayPal.</string>
     <string name="hide">Спрятать</string>
-    <string name="hide_message">Вы хотите спрятать %s? Это поместит его в конец списка приложений и оно не будет выделятся при выборе "Выбрать всё".</string>
+    <string name="hide_message">Вы хотите спрятать %s? Это поместит его в конец списка приложений и оно не будет выделяьтся при выборе "Выбрать всё".</string>
     <string name="unhide">Показать</string>
     <string name="unhide_message">%s теперь показано.</string>
     <string name="hidden">Спрятано</string>
@@ -155,7 +155,7 @@
     <string name="messaging_storage">Сообщения</string>
     <string name="whats_new">Что нового</string>
     <string name="version">Версия</string>
-    <string name="user_dictionary">Пользовательский словарь</string>
+    <string name="user_dictionary">Пользовательские словари</string>
     <string name="user_dictionary_summary">Пользовательские слова и настройки набора</string>
     <string name="messaging_storage_summary">SMS и Журналы звонков</string>
     <string name="password_or_pin">Пароль или PIN код</string>
@@ -169,10 +169,10 @@
     <string name="internal_storage">Внутренняя память</string>
     <string name="restore_internal_storage_summary">Восстановление приложений из внутренней памяти %s.</string>
     <string name="shared_storage">Хранилище %s</string>
-    <string name="wifi_not_connected">Не было найдено WiFi подключения, что помешало резервированию по расписанию.</string>
+    <string name="wifi_not_connected">Не было найдено Wi-Fi подключения, что помешало резервированию по расписанию.</string>
     <string name="not_charging">Устройство не находилось на зарядке, что помешало резервированию по расписанию.</string> 
     <string name="backup_complete_errors_more">Во время резервирования возникли ошибки. Нажмите Резервирование чтобы попытаться продолжить резервирование остальных приложений.</string>
-    <string name="wifi_summary">Настройки Wi-Fi подключения</string>
+    <string name="wifi_summary">Настройки Wi-Fi подключений</string>
     <string name="last_backup">Последнее резервирование было: %s</string>
     <string name="days_ago">%s дней назад</string>
     <string name="hours_ago">%s часов назад</string>
