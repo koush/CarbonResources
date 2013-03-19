@@ -173,5 +173,9 @@
     <string name="not_charging">La sauvegarde planifiée n\'a pas pu être réalisée car le périphérique n\'était pas en charge.</string>
     <string name="backup_complete_errors_more">Des erreurs sont survenues pendant la sauvegarde. Cliquez sur Sauvegarder pour tenter de sauvegarder les applis restantes.</string>
     <string name="wifi">Wi-Fi</string>
-    <string name="wifi_summary">Paramètres de connexions réseaux Wi-Fi</string>
+    <string name="wifi_summary">Paramètres des réseaux Wi-Fi</string>
+    <string name="last_backup">Dernière sauvegarde: %s</string>
+    <string name="days_ago">il y a %s jours</string>
+    <string name="hours_ago">il y a %s heures</string>
+    <string name="minutes_ago">il y a %s minutes</string>
 </resources>
