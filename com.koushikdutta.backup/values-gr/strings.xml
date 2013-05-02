@@ -175,4 +175,7 @@
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_summary">Ρυθμίσεις σύνδεσης δικτύου Wi-Fi</string>
     <string name="last_backup">Τελευταίο αντίγραφο: %s</string>
+    <string name="days_ago">%s μέρες πριν</string>
+    <string name="hours_ago">%s ώρες πριν</string>
+    <string name="minutes_ago">%s λεπτά πριν</string>
 </resources>
