@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Carbon Premium</string>
+    <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">Carbon Premium je pouze licenčním klíčem pro Carbon. Musíte nainstalovat také verzi zdarma z Obchodu Play. Po instalaci verze zdarma tato ikona zmizí. Děkujeme, že jste naším zákazníkem! :)</string>
-    <string name="thanks">Carbon Premium je pouze licenčním klíčem pro Carbon. Na svém zařízení musíte mít instalovanou i verzi zdarma. Tato ikona bude z aplikační lišty při příštím restartu domovské aplikace odstraněna. Děkujeme!</string>
+    <string name="install_free_text">Helium Premium je pouze licenčním klíčem pro Helium. Musíte nainstalovat také verzi zdarma z Obchodu Play. Po instalaci verze zdarma tato ikona zmizí. Děkujeme, že jste naším zákazníkem! :)</string>
+    <string name="thanks">Helium Premium je pouze licenčním klíčem pro Helium. Na svém zařízení musíte mít instalovanou i verzi zdarma. Tato ikona bude z aplikační lišty při příštím restartu domovské aplikace odstraněna. Děkujeme!</string>
     
 </resources>

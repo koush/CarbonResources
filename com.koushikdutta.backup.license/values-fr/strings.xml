@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Carbon Premium</string>
+    <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">Carbon Premium n\'est que la Clef de Licence pour Carbon. Vous devez aussi installer la version gratuite de Carbon qui est disponible sur le Google Play Store. Cette icône va disparaitre lorsque la version gratuite de Carbon sera installée. Merci d\'être un utilisateur Premium ! :)</string>
-    <string name="thanks">Carbon Premium n\'est que la Clef de Licence pour Carbon. Vous devez garder la version gratuite installée sur votre téléphone également. Cette icône s\'enlèvera d\'elle même de votre menu d\'applications la prochaine fois que votre Application d\'Accueil démarrera. Merci !</string>
+    <string name="install_free_text">Helium Premium n\'est que la Clef de Licence pour Helium. Vous devez aussi installer la version gratuite de Helium qui est disponible sur le Google Play Store. Cette icône va disparaitre lorsque la version gratuite de Helium sera installée. Merci d\'être un utilisateur Premium ! :)</string>
+    <string name="thanks">Helium Premium n\'est que la Clef de Licence pour Helium. Vous devez garder la version gratuite installée sur votre téléphone également. Cette icône s\'enlèvera d\'elle même de votre menu d\'applications la prochaine fois que votre Application d\'Accueil démarrera. Merci !</string>
     
 </resources>
