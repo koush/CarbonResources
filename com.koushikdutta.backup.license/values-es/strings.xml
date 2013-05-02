@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Carbon Premium</string>
+    <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">Carbon Premium es sólo la llave de licencia para Carbon. Debes instalar también la versión gratuita encontrada en Google Play. Este icono desaparecerá cuando la versión gratuita esté instalada. ¡Gracias por ser un usuario Premium! :)</string>
-    <string name="thanks">Carbon Premium es sólo la llave de licencia para Carbon. Debes dejar también la versión gratuita instalada en tu télefono. Este icono será removido de tu bandeja de aplicación la próxima vez que tu aplicación Home se reinicie. ¡Gracias!</string>
+    <string name="install_free_text">Helium Premium es sólo la llave de licencia para Helium. Debes instalar también la versión gratuita encontrada en Google Play. Este icono desaparecerá cuando la versión gratuita esté instalada. ¡Gracias por ser un usuario Premium! :)</string>
+    <string name="thanks">Helium Premium es sólo la llave de licencia para Helium. Debes dejar también la versión gratuita instalada en tu télefono. Este icono será removido de tu bandeja de aplicación la próxima vez que tu aplicación Home se reinicie. ¡Gracias!</string>
     
 </resources>
