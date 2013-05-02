@@ -129,7 +129,7 @@
     <string name="rate_carbon">Ohodnotiť Helium</string>
     <string name="swipe_up_info">Tip:\n\nVysunutím spodného panela získate prístup k ďalším možnostiam, ako napríklad \"Označiť všetko\".</string>
     <string name="enable_ptp">Povoliť PTP režim</string>
-    <string name="status_ptp_off">Váš Android USB je v režime MTP. Možno budete musieť prepnúť do PTP.</string>
+    <string name="status_ptp_off">USB režim Vášho Android zariadenia je MTP. Možno budete musieť prepnúť USB režim na PTP.</string>
     <string name="ptp_info">Vo Vašich Android nastaveniach nájdete nastavenie pre povolenie režimu Fotoaparát (PTP).\n\nPovoľte nastavenie a potom stlačte späť pre návrat do Heliumu.</string>
     <string name="not_admin_info">Zálohovací Android mechanizmus vyžaduje primárneho užívateľa zariadenia.\n\nHelium sa teraz ukončí. Prosím otvorte Helium ako primárny používateľ!</string>
     <string name="wifi_only">Zálohovať len na Wi-Fi</string>
@@ -174,7 +174,7 @@
     <string name="backup_complete_errors_more">V priebehu zálohovania došlo k niektorým chybám. Kliknite na tlačidlo \"Zálohovať\", aby sa Helium pokúsil zálohovať zvyšné aplikácie.</string>
     <string name="wifi">Wi-Fi</string>
     <string name="wifi_summary">Nastavenia Wi-Fi pripojenia</string>
-    <string name="last_backup">Posl. záloh.: %s</string>
+    <string name="last_backup">Naposledy zálohované: %s</string>
     <string name="days_ago">pred %s dňami</string>
     <string name="hours_ago">pred %s hodinami</string>
     <string name="minutes_ago">pred %s minútami</string>
