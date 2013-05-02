@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Helium プレミアム</string>
+    <string name="app_name">Carbon プレミアム</string>
 
-    <string name="install_free_text">HeliumプレミアムはHeliumのライセンスキーです。Google Playで配信中のHeliumの無料バージョンを探してインストールする必要があります。無料バージョンをインストールするとこのアイコンは消えます。プレミアムユーザーになってくれてありがとう！:)</string>
-    <string name="thanks">HeliumプレミアムはHeliumのライセンスキーです。端末には無料バージョンを共にインストールしておく必要があります。このアイコンは次にホームを再起動したときに、自動的にアプリケーショントレイから削除されます。ありがとう！</string>
+    <string name="install_free_text">CarbonプレミアムはCarbonのライセンスキーです。Google Playで配信中のCarbonの無料バージョンを探してインストールする必要があります。無料バージョンをインストールするとこのアイコンは消えます。プレミアムユーザーになってくれてありがとう！:)</string>
+    <string name="thanks">CarbonプレミアムはCarbonのライセンスキーです。端末には無料バージョンを共にインストールしておく必要があります。このアイコンは次にホームを再起動したときに、自動的にアプリケーショントレイから削除されます。ありがとう！</string>
     
 </resources>

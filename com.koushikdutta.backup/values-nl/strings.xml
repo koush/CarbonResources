@@ -1,10 +1,10 @@
 <resources>
 
-    <string name="app_name">Helium</string>
-    <string name="please_connect">Start de Helium Desktop software op uw computer a.u.b.</string>
+    <string name="app_name">Carbon</string>
+    <string name="please_connect">Start de Carbon Desktop software op uw computer a.u.b.</string>
     <string name="pc_download">PC Download</string>
-    <string name="server_off">Helium Server is niet actief.</string>
-    <string name="server_on">Helium Server is actief.</string>
+    <string name="server_off">Carbon Server is niet actief.</string>
+    <string name="server_on">Carbon Server is actief.</string>
     <string name="server_what">Wi-Fi-verbinding niet gevonden. Staat Wi-Fi aan?</string>
     <string name="logout">Log uit</string>
     <string name="login">Log in</string>
@@ -32,13 +32,13 @@
     <string name="dropbox">Dropbox</string>
     <string name="drive">Google Drive</string>
     <string name="no_devices">Geen Apparaten Gevonden</string>
-    <string name="no_devices_summary">Installeer Helium op uw andere apparaten om uw data te synchroniseren! Klik om te vernieuwen.</string>
+    <string name="no_devices_summary">Installeer Carbon op uw andere apparaten om uw data te synchroniseren! Klik om te vernieuwen.</string>
     <string name="usb_storage">USB-opslag</string>
     <string name="restore_usb_storage_summary">Apps van de USB-opslag herstellen op deze %s.</string>
     <string name="backup">Back-up</string>
     <string name="remove_device">Apparaat Verwijderen</string>
 
-    <string name="remove_device_more">Druk op OK om %s te verwijderen uit de lijst met apparaten die worden beheerd door Helium.\n\nU dient tevens de Helium applicatie van dat apparaat te verwijderen om de verwijdering te voltooien.</string>
+    <string name="remove_device_more">Druk op OK om %s te verwijderen uit de lijst met apparaten die worden beheerd door Carbon.\n\nU dient tevens de Carbon applicatie van dat apparaat te verwijderen om de verwijdering te voltooien.</string>
     <string name="refresh_device_list">Vernieuw Apparaatlijst</string>
     <string name="backup_error">Back-upfout</string>
     <string name="error_occured_during_backup">Er is een fout opgetreden tijdens het back-uppen van uw apps. Een log van de fout is verstuurd naar ClockworkMod.\n\nKlik Back-up om te proberen om de resterende apps te back-uppen.</string>
@@ -53,8 +53,8 @@
     <string name="sync_complete">Synchronisatie Compleet</string>
     <string name="sync_complete_more">De synchronisatie van uw apps is voltooid.</string>
     <string name="error">Fout</string>
-    <string name="welcome">Welkom bij Helium</string>
-    <string name="welcome_message">Welkom bij Helium!\n\nLog in op uw Google-account, zodat u back-ups kunt maken naar uw Google Drive en kunt synchroniseren met uw andere apparaten!</string>
+    <string name="welcome">Welkom bij Carbon</string>
+    <string name="welcome_message">Welkom bij Carbon!\n\nLog in op uw Google-account, zodat u back-ups kunt maken naar uw Google Drive en kunt synchroniseren met uw andere apparaten!</string>
     <string name="no_thanks">Nee, bedankt</string>
     <string name="no_problem">Dat is geen probleem! U kunt nog steeds back-ups maken en herstellen van uw telefoon\'s USB-opslag.</string>
     <string name="no_backups">Er zijn geen back-ups gevonden op uw %s. Misschien moet u er een paar maken!</string>
@@ -62,7 +62,7 @@
     <string name="delete_backup_confirm">Back-up verwijderen? Dit kan niet ongedaan gemaakt worden.</string>
     <string name="delete_backup_error">Er is een fout opgetreden tijdens het verwijderen van uw back-up. Een log van de fout is verstuurd naar ClockworkMod.</string>
     <string name="root">Root</string>
-    <string name="root_permissions">Helium zal nu controleren op root-permissies. Als het root-permissiedialoogvenster verschijnt, kunt u deze instellen op \"altijd toestaan\".</string>
+    <string name="root_permissions">Carbon zal nu controleren op root-permissies. Als het root-permissiedialoogvenster verschijnt, kunt u deze instellen op \"altijd toestaan\".</string>
     <string name="android_backup">Android Back-up</string>
     <string name="dropbox_login_error">Aanmelden bij Dropbox mislukt.</string>
     <string name="dropbox_login_complete">U bent ingelogd op uw Dropbox-account.</string>
@@ -82,22 +82,22 @@
     <string name="delete_list">Verwijder Opgeslagen Groep</string>
     <string name="delete_list_confirm">Verwijder opgeslagen back-uplijst? Dit kan niet ongedaan gemaakt worden.</string>
     <string name="no_apk">Deze back-up bevat alleen de app data, en niet de app. U moet eerst de app downloaden van Google Play.\n\nKlik op OK om door te gaan naar Google Play.</string>
-    <string name="backup_in_progress">Helium Back-up is Bezig</string>
-    <string name="restore_in_progress">Helium Herstel is Bezig</string>
+    <string name="backup_in_progress">Carbon Back-up is Bezig</string>
+    <string name="restore_in_progress">Carbon Herstel is Bezig</string>
     <string name="canceling">Annuleren ...</string>
     <string name="box">Box</string>
     <string name="last_seen">Laatst Gezien: %s</string>
-    <string name="checking_enabled">Wacht op de Helium Desktop software om app back-ups in te schakelen op uw Android...\n\nDownload de Helium Desktop software voor uw PC:\n\n%s</string>
-    <string name="connect_pc">Welkom!\n\nOm aan de slag te gaan met Helium, dient u eerst app back-ups mogelijk te maken door verbinding te maken met de Helium Desktop software.\n\nBezoek de Helium website op uw PC voor instructies:\n\n%s</string>
+    <string name="checking_enabled">Wacht op de Carbon Desktop software om app back-ups in te schakelen op uw Android...\n\nDownload de Carbon Desktop software voor uw PC:\n\n%s</string>
+    <string name="connect_pc">Welkom!\n\nOm aan de slag te gaan met Carbon, dient u eerst app back-ups mogelijk te maken door verbinding te maken met de Carbon Desktop software.\n\nBezoek de Carbon website op uw PC voor instructies:\n\n%s</string>
     <string name="status_adb_off">Schakel USB-foutopsporing in...</string>
     <string name="connect_usb">Sluit alstublieft uw Android aan op uw PC\'s USB-aansluiting...</string>
     <string name="enable_adb">Schakel USB in</string>
 
-    <string name="adb_info">In uw Android-instellingen, kunt u een instelling vinden om USB-foutopsporing in te schakelen.\n\nSchakel USB-foutopsporing in en druk op TERUG om terug te keren naar Helium.</string>
-    <string name="connect_cancel">Android app back-ups moeten worden ingeschakeld met de Helium Desktop software.\n\nDit process annuleren heeft tot gevolg dat Helium niet meer goed werkt.\n\nWeet u zeker dat u wilt annuleren?</string>
+    <string name="adb_info">In uw Android-instellingen, kunt u een instelling vinden om USB-foutopsporing in te schakelen.\n\nSchakel USB-foutopsporing in en druk op TERUG om terug te keren naar Carbon.</string>
+    <string name="connect_cancel">Android app back-ups moeten worden ingeschakeld met de Carbon Desktop software.\n\nDit process annuleren heeft tot gevolg dat Carbon niet meer goed werkt.\n\nWeet u zeker dat u wilt annuleren?</string>
     <string name="send_link">Koppeling Verzenden</string>
 
-    <string name="connect_success">Android app back-up ingeschakeld! \n\n Let op: als u uw Android uitschakelt, moet u opnieuw verbinding maken met de Helium Desktop software om app back-ups weer in te schakelen.</string>
+    <string name="connect_success">Android app back-up ingeschakeld! \n\n Let op: als u uw Android uitschakelt, moet u opnieuw verbinding maken met de Carbon Desktop software om app back-ups weer in te schakelen.</string>
     <string name="no_logins">Aanmelden mislukt. U hebt geen Google-accounts ingesteld.</string>
     <string name="superuser">Superuser</string>
     <string name="superuser_bleh">Superuser is verouderd. U wordt aanbevolen te upgraden naar SuperSU.\n\nU kunt SuperSU vinden op Google Play.</string>
@@ -108,7 +108,7 @@
     <string name="paypal">PayPal</string>
     <string name="purchase_thanks">Bedankt voor uw aankoop!</string>
     <string name="backup_premium_required">Opmerking: Het herstellen van %1$s vereist %2$s.</string>
-    <string name="app_name_premium">Helium Premium</string>
+    <string name="app_name_premium">Carbon Premium</string>
     <string name="restore_premium_required">Het herstellen van %1$s vereist %2$s.</string>
     <string name="recover">Herstellen</string>
     <string name="redeem_code">Code Inwisselen</string>
@@ -127,19 +127,19 @@
     <string name="schedule_backup">Back-up Plannen</string>
     <string name="delete_scheduled_backup">Geplande Back-up verwijderen?</string>
     <string name="no_scheduled">Er zijn geen back-ups gepland.\nOm een back-up te plannen:\n\n1) Ga naar de back-up lijst\n2) Kies de apps die u wilt back-uppen\n3) Click Backup\n4) Kies Back-up Plannen</string>
-    <string name="schedule_backup_premium">Geplande back-ups zijn alleen beschkbaar in Helium Premium.</string>
-    <string name="buy_premium_summary">Koop Helium Premium om alle Helium functies te kunnen gebruiken!</string>
-    <string name="restore_complete_more_rate">Uw app herstel is voltooid.\n\nAls u een moment heeft, zou ik het waarderen als u Helium op Google Play beoordeeld!</string>
-    <string name="rate_carbon">Beoordeel Helium</string>
+    <string name="schedule_backup_premium">Geplande back-ups zijn alleen beschkbaar in Carbon Premium.</string>
+    <string name="buy_premium_summary">Koop Carbon Premium om alle Carbon functies te kunnen gebruiken!</string>
+    <string name="restore_complete_more_rate">Uw app herstel is voltooid.\n\nAls u een moment heeft, zou ik het waarderen als u Carbon op Google Play beoordeeld!</string>
+    <string name="rate_carbon">Beoordeel Carbon</string>
     <string name="swipe_up_info">Tip:\n\nProbeer het onderste paneel omhoog te slepen om meer opties weer te geven, zoals Alles Selecteren.</string>
     <string name="enable_ptp">Schakel PTP in</string>
     <string name="status_ptp_off">Uw Android USB staat in MTP-modus. Het kan nodig zijn om deze over te schakelen naar PTP.</string>
-    <string name="ptp_info">In uw Android-instellingen, vindt u een instelling om de Camera (PTP) modus in te schakelen.\n\nSchakel de instelling in en druk op TERUG om terug te keren naar Helium.</string>
-    <string name="not_admin_info">Android\'s back-up systeem werkt alleen met de primaire apparaatgebruiker.\n\nHelium wordt nu afgesloten. Open Helium a.u.b. met de primaire gebruiker!</string>
+    <string name="ptp_info">In uw Android-instellingen, vindt u een instelling om de Camera (PTP) modus in te schakelen.\n\nSchakel de instelling in en druk op TERUG om terug te keren naar Carbon.</string>
+    <string name="not_admin_info">Android\'s back-up systeem werkt alleen met de primaire apparaatgebruiker.\n\nCarbon wordt nu afgesloten. Open Carbon a.u.b. met de primaire gebruiker!</string>
     <string name="wifi_only">Backup alleen via Wi-Fi</string>
     <string name="plugged_in">Backup alleen tijdens het opladen</string>
     <string name="set_password">Stel Wachtword in</string>
-    <string name="desktop_backup_password_info">Er is een fout opgetreden tijdens het back-uppen van uw apps.\n\nDeze fout kan veroorzaakt worden doordat u een Desktop Backup Wachtwoord ingesteld heeft.\n\nControleer of uw Desktop Backup Wachtwoord leeg is, en druk op TERUG om terug te keren naar Helium.</string>
+    <string name="desktop_backup_password_info">Er is een fout opgetreden tijdens het back-uppen van uw apps.\n\nDeze fout kan veroorzaakt worden doordat u een Desktop Backup Wachtwoord ingesteld heeft.\n\nControleer of uw Desktop Backup Wachtwoord leeg is, en druk op TERUG om terug te keren naar Carbon.</string>
     <string name="scheduled_backup_complete">Geplande back-up voltooid.</string>
     <string name="scheduled_backup_error">Fout tijdens geplande back-up.</string>
     <string name="scheduled_backup_click">Klik om te back-uppen.</string>
