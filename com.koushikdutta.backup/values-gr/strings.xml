@@ -113,7 +113,7 @@
     <string name="recover_purchase_error">Παρουσιάστηκε σφάλμα κατά την ανάκτηση της αγοράς σας.</string>
     <string name="no_license_found_email">Δεν βρέθηκε άδεια για αυτό το PayPal email.</string>
     <string name="hide">Απόκρυψη</string>
-    <string name="hide_message">Θα θέλατε να απκρύψετε το %s; Θα μεταφερθεί στο τέλος του καταλόγου εφαρμογών και δε θα επιλέγεται από το "Επιλογή Όλων".</string>
+    <string name="hide_message">Θα θέλατε να αποκρύψετε το %s; Θα μεταφερθεί στο τέλος του καταλόγου εφαρμογών και δε θα επιλέγεται από το "Επιλογή Όλων".</string>
     <string name="unhide">Αποκάλυψη</string>
     <string name="unhide_message">%s έχει αποκαλυφθεί.</string>
     <string name="hidden">Κρυμμένο</string>
@@ -121,7 +121,7 @@
     <string name="name">Όνομα</string>
     <string name="time">Ώρα</string>
     <string name="schedule_backup">Προγραμματισμός Αντιγραφής</string>
-    <string name="delete_scheduled_backup">Delete scheduled Backup?</string>
+    <string name="delete_scheduled_backup">Διαγραφή προγραμματισμένης αντιγραφής ασφαλείας;</string>
     <string name="no_scheduled">Δεν έχουν προγραμματιστεί αντιγραφές ασφαλείας.\nΓια να προγραμματίσετε μια αντιγραφή:\n\n1) Πηγαίνετε στον κατάλογο αντιγραφών\n2) Επιλέξτε τις επιθυμητές εφαρμογές\n3) Πατήστε Αντιγραφή\n4)Επιλέξτε προγραμματισμό</string>
     <string name="schedule_backup_premium">Ο χρονικός προγραμματισμός είναι μια δυνατότητα του Helium Premium.</string>
     <string name="buy_premium_summary">Αγοράστε το Helium Premium για πρόσβαση σε όλες τις δυνατότητες του Helium!</string>
