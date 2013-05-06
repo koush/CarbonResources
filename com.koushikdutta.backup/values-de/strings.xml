@@ -5,7 +5,7 @@
     <string name="pc_download">PC-Download</string>
     <string name="server_off">Helium-Server ist nicht gestartet</string>
     <string name="server_on">Helium-Server ist gestartet</string>
-    <string name="server_what">Keine WLAN-Verbindung gefunden. Ist Wi-Fi aktiv?</string>
+    <string name="server_what">Keine WLAN-Verbindung gefunden. Ist WLAN aktiviert?</string>
     <string name="logout">Abmelden</string>
     <string name="login">Anmelden</string>
     <string name="login_to_sync">Anmelden um Geräte zu synchronisieren</string>
@@ -13,10 +13,10 @@
     <string name="no">Nein</string>
     <string name="loading">Lädt...</string>
     <string name="error_loading_devices">Beim Abrufen der Geräteliste ist ein Fehler aufgetreten</string>
-    <string name="error_loading_apps">Beim Abrufen der Appliste ist ein Fehler aufgetreten</string>
+    <string name="error_loading_apps">Beim Abrufen der App-Liste ist ein Fehler aufgetreten</string>
     <string name="my_devices">Meine Geräte</string>
     <string name="applications">Apps</string>
-    <string name="downloading">Download...</string>
+    <string name="downloading">Lädt herunter...</string>
     <string name="restoring">Wiederherstellung...</string>
     <string name="backingup">Sicherung läuft...</string>
     <string name="restore_and_sync">Wiederherstellen und synchronisieren</string>
@@ -37,7 +37,7 @@
     <string name="restore_usb_storage_summary">Apps vom USB-Speicher auf diesem %s wiederherstellen</string>
     <string name="backup">Sichern</string>
     <string name="remove_device">Gerät entfernen</string>
-    <string name="remove_device_more">OK berühren um %s aus der Liste von Helium verwalteten Geräte zu entfernen.\n\nHelium von diesem Gerät entfernen um die Deinstallation zu vervollständigen.</string>
+    <string name="remove_device_more">OK berühren, um %s aus der Liste von Helium verwalteten Geräte zu entfernen.\n\nHelium von diesem Gerät entfernen um die Deinstallation zu vervollständigen.</string>
     <string name="refresh_device_list">Geräteliste aktualisieren</string>
     <string name="backup_error">Sicherungsfehler</string>
     <string name="error_occured_during_backup">Ein Fehler ist während der Sicherung aufgetreten. Aufzeichnungen über den Fehler wurden zu ClockworkMod gesandt.\n\nSichern berühren um die restlichen Apps zu sichern.</string>
@@ -165,4 +165,17 @@
     <string name="app_downloads_required">%s Apps müssen vor der Wiederherstellung von Google Play heruntergeladen werden.\n\nDie nicht markierten Apps berühren, um zu deren Google Play Seite zu navigieren</string>
     <string name="backup_enter_encryption_password">Dieses Gerät ist verschlüsselt. Bitte PIN oder Passwort eingeben, um ein Backup durchzuführen</string>
     <string name="restore_enter_encryption_password">Dieses Gerät ist verschlüsselt. Bitte PIN oder Passwort eingeben, um eine Wiederherstellung durchzuführen</string>
+    <string name="logging_into_dropbox">In Dropbox anmelden...</string>
+    <string name="internal_storage">Interner Speicher</string>
+    <string name="restore_internal_storage_summary">Stelle Apps aus dem internen Speicher dieses %s wiederher.</string>
+    <string name="shared_storage">%s Speicher freigegeben</string>
+    <string name="wifi_not_connected">Die WLAN-Verbindung stand zur geplanten Sicherung nicht zur Verfügung.</string>
+    <string name="not_charging">Das Nicht-Aufladen des Gerätes hat die Ausführung der geplanten Sicherung verhindert.</string>
+    <string name="backup_complete_errors_more">Während der Sicherung sind einige Fehler aufgetreten. Berühre \"Sichern\", um mit der Sicherung der verbliebenen Apps fortzufahren.</string>
+    <string name="wifi">WLAN</string>
+    <string name="wifi_summary">WLAN-Verbindung-Einstellungen</string>
+    <string name="last_backup">Letzte Sicherung: %s</string>
+    <string name="days_ago">vor %s Tagen</string>
+    <string name="hours_ago">vor %s Stunden</string>
+    <string name="minutes_ago">vor %s Minuten</string>
 </resources>
