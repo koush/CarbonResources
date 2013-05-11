@@ -153,4 +153,6 @@
     <string name="external_sdcard_error">Při čtení externí SD karty došlo k chybě.</string>
     <string name="system">Systém</string>
     <string name="messaging_storage">SMS zprávy</string>
+    <string name="whats_new">Co je nového</string>
+    <string name="version">Verze</string>
 </resources>
