@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Helium Premium</string>
+
+    <string name="install_free_text">Helium Premium jest tylko kluczem licencji dla aplikacji Helium. Musisz zainstalować także darmową wersję znajdującą się w Google Play. Ta ikona zniknie kiedy darmowa wersja zostanie zainstalowana. Dziękuję za bycie użytkownikiem Premium! :)</string>
+    <string name="thanks">Helium Premium jest tylko kluczem licencji dla aplikacji Helium. Musisz zachować zainstalowaną darmową wersję programu. Ta ikona zostanie usunięta z listy aplikacji po następnym restarcie aplikacji Home. Dziękuję!</string>
+    
+</resources>

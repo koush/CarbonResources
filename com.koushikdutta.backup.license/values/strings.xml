@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Carbon Premium</string>
+    <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">Carbon Premium is just the License Key for Carbon. You must also install the Free version found on the Google Play. This icon will disappear when the free version is installed. Thanks for being a Premium user! :)</string>
-    <string name="thanks">Carbon Premium is just the License Key for Carbon. You must keep the Free version installed on your phone as well. This icon will remove itself from your application tray the next time your Home application restarts. Thanks!</string>
+    <string name="install_free_text">Helium Premium is just the License Key for Helium. You must also install the Free version found on the Google Play. This icon will disappear when the free version is installed. Thanks for being a Premium user! :)</string>
+    <string name="thanks">Helium Premium is just the License Key for Helium. You must keep the Free version installed on your phone as well. This icon will remove itself from your application tray the next time your Home application restarts. Thanks!</string>
     
 </resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Helium Премиум</string>
+
+    <string name="install_free_text">Helium Премиум это лицензионный ключ для Helium. Вы также должны установить бесплатную версию из Google Play. Эта иконка исчезнет когда приложение будет установлено. Спасибо за пользование Премиум версией! :)</string>
+    <string name="thanks">Helium Премиум это лицензионный ключ для Helium. Вы также должны установить бесплатную версию из Google Play. Эта иконка исчезнет когда ваш лаунчер будет перезапущен. Спасибо!</string>
+    
+</resources>

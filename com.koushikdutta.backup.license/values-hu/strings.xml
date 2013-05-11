@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Carbon Premium</string>
+    <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">A Carbon Premium csak a Carbon licenc kulcsot tartalmazza. Mindenképpen telepíteni kell a Google Play áruházban található ingyenes verziót. Az ingyenes verzió telepítése után ez az ikon el fog tűnni. Köszönjük, hogy Premium felhasználó vagy! :)</string>
-    <string name="thanks">A Carbon Premium csak egy licenc kulcs a Carbon alkalmazáshoz. Az ingyenes verziót mindenképpen tartsd telepítve a telefonodon. Ez az ikon a következő programindító újraindítása után eltávolítja magát. Köszönjük!</string>
+    <string name="install_free_text">A Helium Premium csak a Helium licenc kulcsot tartalmazza. Mindenképpen telepíteni kell a Google Play áruházban található ingyenes verziót. Az ingyenes verzió telepítése után ez az ikon el fog tűnni. Köszönjük, hogy Premium felhasználó vagy! :)</string>
+    <string name="thanks">A Helium Premium csak egy licenc kulcs a Helium alkalmazáshoz. Az ingyenes verziót mindenképpen tartsd telepítve a telefonodon. Ez az ikon a következő programindító újraindítása után eltávolítja magát. Köszönjük!</string>
     
 </resources>
