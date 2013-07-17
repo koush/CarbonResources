@@ -21,7 +21,7 @@
     <string name="backingup">מבצע גיבוי...</string>
     <string name="restore_and_sync">שחזר וסנכרן</string>
     <string name="restore">שחזר</string>
-    <string name="selected_for_restore">% יישומים נבחרו לשחזור.</string>
+    <string name="selected_for_restore">%s יישומים נבחרו לשחזור.</string>
     <string name="selected_for_backup">%s יישומים נבחרו לגיבוי.</string>
     <string name="selected_for_sync">%s יישומים נבחרו לסנכרון.</string>
     <string name="installed">מותקנים</string>
