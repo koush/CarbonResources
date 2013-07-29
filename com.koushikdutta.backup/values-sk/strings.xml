@@ -1,11 +1,11 @@
 <resources>
 
     <string name="app_name">Helium</string>
-    <string name="please_connect">Prosím spustite program Helium na Vašom počítači.</string>
+    <string name="please_connect">Prosím spusťte program Helium na Vašom počítači.</string>
     <string name="pc_download">PC sťahovanie</string>
     <string name="server_off">Helium server nebeží.</string>
     <string name="server_on">Helium server beží.</string>
-    <string name="server_what">Wi-Fi pripojenie nenájdené. Je Vaše Wi-Fi zapnuté?</string>
+    <string name="server_what">Wi-Fi pripojenie nenájdené. Je Wi-Fi zapnuté?</string>
     <string name="logout">Odhlásenie</string>
     <string name="login">Prihlásenie</string>
     <string name="login_to_sync">Prihlásiť sa pre synchr. s vašimi ďalšími zariadeniami.</string>
