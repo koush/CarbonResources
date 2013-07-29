@@ -99,7 +99,7 @@
     <string name="superuser">Superuser</string>
     <string name="superuser_bleh">Superuser je zastaraný. Odporúča sa vykonať aktualizáciu na SuperSU.\n\nSuperSU nájdete v Obchode Play.</string>
     <string name="schedule">Plán</string>
-    <string name="buy_premium">Kúpiť Prémium</string>
+    <string name="buy_premium">Zakúpiť Prémium verziu</string>
     <string name="purchase_options">Možnosti nákupu</string>
     <string name="google_play">Obchod Play</string>
     <string name="paypal">PayPal</string>
@@ -123,8 +123,8 @@
     <string name="schedule_backup">Plánovaná záloha</string>
     <string name="delete_scheduled_backup">Vymazať plánovanú zálohu?</string>
     <string name="no_scheduled">Žiadne naplánované zálohy.\nPre naplánovanie zálohovania:\n\n1) Prejdite na zoznam aplikácií\n2) Vyberte aplikácie, ktoré chcete zálohovať\n3) Kliknite na \"Zálohovať\"\n4) Vyberte \"Plánovaná záloha\"</string>
-    <string name="schedule_backup_premium">Plánované zálohy vyžadujú Prémium verziu Heliumu.</string>
-    <string name="buy_premium_summary">Zakúpte si Helium Premium pre prístup ku všetkým funkciám Heliumu!</string>
+    <string name="schedule_backup_premium">Plánované zálohy vyžadujú Prémium verziu Helia.</string>
+    <string name="buy_premium_summary">Zakúpte si Helium Premium pre prístup ku všetkým funkciám Helia!</string>
     <string name="restore_complete_more_rate">Vaša obnova aplikácií je dokončená.\n\nOcenil by som, keby ste ohodnotili Helium v Obchode Play!</string>
     <string name="rate_carbon">Ohodnotiť Helium</string>
     <string name="swipe_up_info">Tip:\n\nVysunutím spodného panela získate prístup k ďalším možnostiam, akým je napríklad \"Označiť všetko\".</string>
