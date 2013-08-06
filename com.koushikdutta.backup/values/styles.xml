@@ -3,7 +3,7 @@
         <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
         <item name="listHeaderTextColor">@color/holo_blue_dark</item>
     </style>
-    
+
     <style name="BackupRestoreTheme" parent="@style/CarbonTheme">
         <item name="iconSize">@android:dimen/app_icon_size</item>
     </style>
