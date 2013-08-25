@@ -85,7 +85,7 @@
     <string name="restore_in_progress">Prebieha Helium obnovovanie</string>
     <string name="canceling">Ruším...</string>
     <string name="box">Box</string>
-    <string name="last_seen">Posledné zobr.: %s</string>
+    <string name="last_seen">Naposledy videné: %s</string>
     <string name="checking_enabled">Čakám na program Helium pre povolenie zálohovania aplikácií na Vašom Android zariadení...\n\nProsím získajte program Helium pre Váš PC:\n\n%s</string>
     <string name="connect_pc">Vitajte!\n\nPre začatie práce s Heliumom, músite najskôr povoliť zálohovanie aplikácií pripojením k programu Helium.\n\nProsím navštívte webové stránky Heliumu na Vašom PC pre ďalšie pokyny:\n\n</string>
     <string name="status_adb_off">Prosím povoľte ladenie USB...</string>
