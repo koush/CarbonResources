@@ -3,7 +3,7 @@
 
     <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">Helium Premium è solo una chiave di attivazione per Helium. Devi installare anche la versione Free che trovi su Google Play. Quest\'icona scomparirà quando la versione Free sarà installata. Grazie di essere un utente Premium! :)</string>
-    <string name="thanks">Helium Premium è solo una chiave di attivazione per Helium. Devi avere installata anche la versione Free sul tuo dispositivo. Questa icona scomparirà dall\'area di notifica la prossima volta che il tuo launcher verrà riavviato. Grazie!</string>
+    <string name="install_free_text">Helium Premium è solo una chiave di attivazione per Helium. Devi installare anche la versione gratuita che trovi nel Google Play Store. Questa icona scomparirà quando la versione gratuita sarà installata. Grazie di essere un utente Premium! :)</string>
+    <string name="thanks">Helium Premium è solo una chiave di attivazione per Helium. Devi avere installata anche la versione gratuita sul tuo dispositivo. Questa icona scomparirà dall\'area di notifica la prossima volta che il tuo launcher verrà riavviato. Grazie!</string>
     
 </resources>
