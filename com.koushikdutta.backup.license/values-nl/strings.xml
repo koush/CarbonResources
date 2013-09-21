@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Helium Premium</string>
+    <string name="install_free_text">Helium Premium dient slechts als licentiesleutel voor Helium. U dient de gratis versie te downloaden vanaf de Play Store. Dit pictogram verdwijnt, wanneer de gratis versie is geïnstalleerd. Bedankt dat u een Premium-gebruiker bent! :)</string>
+    <string name="thanks">Helium Premium dient slechts als licentiesleutel voor Helium. U dient de gratis versie geïnstalleerd te houden op uw apparaat. Dit pictogram verdwijnt, wanneer uw launcher wordt herstart. Bedankt!</string>
+</resources>
