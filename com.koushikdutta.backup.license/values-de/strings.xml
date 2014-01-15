@@ -3,7 +3,7 @@
 
     <string name="app_name">Helium Premium</string>
 
-    <string name="install_free_text">Helium Premium ist nur der Lizenzschlüssel für Helium. Du musst auch Helium aus Google Play installieren. Dieses Symbol verschwindet wenn Du Helium installiert hast. Danke das du Helium Premium benutzt! :)</string>
-    <string name="thanks">Helium Premium ist nur der Lizenzschlüssel für Helium. Du musst auch Helium aus Google Play installiert lassen. Dieses Symbol verschwindet sobald dein Luncher das nächste mal startet. Danke!</string>
+    <string name="install_free_text">Helium Premium ist nur der Lizenzschlüssel für Helium. Du musst auch Helium aus Google Play installieren. Dieses Symbol verschwindet wenn Du Helium installiert hast. Danke, dass du Helium Premium benutzt! :)</string>
+    <string name="thanks">Helium Premium ist nur der Lizenzschlüssel für Helium. Du musst auch Helium aus Google Play installiert lassen. Dieses Symbol verschwindet sobald dein Launcher das nächste Mal startet. Danke!</string>
     
 </resources>
