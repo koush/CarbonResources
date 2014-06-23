@@ -1,7 +1,20 @@
 <resources>
     <style name="CarbonTheme" parent="@style/AppTheme">
         <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
-        <item name="listHeaderTextColor">@color/holo_blue_dark</item>
+
+        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
+        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:actionBarStyle">@style/BackupActionBar</item>
+        <item name="listHeaderTextColor">@android:color/black</item>
+    </style>
+
+    <style name="BackupActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/action_bar_green</item>
+        <item name="android:titleTextStyle">@style/BackupActionBarTitleText</item>
+    </style>
+
+    <style name="BackupActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@android:color/white</item>
     </style>
 
     <style name="BackupRestoreTheme" parent="@style/CarbonTheme">

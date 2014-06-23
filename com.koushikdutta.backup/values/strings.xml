@@ -1,5 +1,4 @@
 <resources>
-
     <string name="app_name">Helium</string>
     <string name="please_connect">Please start the Helium Desktop application on your computer.</string>
     <string name="pc_download">PC Download</string>
