@@ -6,6 +6,7 @@
         <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
         <item name="android:actionBarStyle">@style/BackupActionBar</item>
         <item name="listHeaderTextColor">@android:color/black</item>
+        <item name="android:actionOverflowButtonStyle">@style/BackupOverFlow</item>
     </style>
 
     <style name="BackupActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
@@ -15,6 +16,10 @@
 
     <style name="BackupActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
         <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="BackupOverFlow">
+        <item name="android:src">@drawable/ic_action_core_overflow</item>
     </style>
 
     <style name="BackupRestoreTheme" parent="@style/CarbonTheme">

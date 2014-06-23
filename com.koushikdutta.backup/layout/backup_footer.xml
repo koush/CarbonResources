@@ -14,7 +14,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@color/action_bar_green" />
+            android:background="@android:color/holo_green_dark" />
     </LinearLayout>
 
     <LinearLayout
