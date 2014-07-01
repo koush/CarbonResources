@@ -35,7 +35,7 @@
             android:orientation="vertical" >
 
             <TextView
-                style="@android:style/TextAppearance.DeviceDefault.Medium"
+                style="@android:style/TextAppearance.Medium"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/data_only" />
@@ -81,7 +81,7 @@
         android:paddingTop="4dp" >
 
         <TextView
-            style="@android:style/TextAppearance.DeviceDefault.Medium"
+            style="@android:style/TextAppearance.Medium"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/remember_this_list" />

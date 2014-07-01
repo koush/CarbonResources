@@ -1,5 +1,5 @@
 <resources>
-    <style name="AndroidTheme" parent="@android:style/Theme.Holo.Light">
+    <style name="AndroidTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
         <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
         <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
     </style>

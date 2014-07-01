@@ -13,7 +13,7 @@
 
     <com.astuetz.PagerSlidingTabStrip
             backup:pstsTabPaddingLeftRight="0dp"
-            backup:pstsIndicatorColor="@color/action_bar_green"
+            backup:pstsIndicatorColor="@color/action_bar_blue"
             backup:pstsShouldExpand="true"
             android:id="@+id/tabs"
             android:layout_width="match_parent"
