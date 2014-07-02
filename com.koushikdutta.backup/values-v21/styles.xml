@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="AndroidTheme" parent="@android:style/Theme.Material.Light.DarkActionBar">
-        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
-        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
+        <item name="android:colorPrimary">@color/action_bar_blue</item>
+        <item name="android:colorPrimaryDark">@color/action_bar_dark_blue</item>
     </style>
 
     <style name="BackupActionBar" parent="@android:style/Widget.Material.Light.ActionBar.Solid">
-        <item name="android:background">@color/action_bar_blue</item>
     </style>
 
     <style name="RobotoTextViewStyle" parent="android:Widget.Material.Light.TextView">

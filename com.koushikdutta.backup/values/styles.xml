@@ -2,8 +2,6 @@
     <style name="CarbonTheme" parent="@style/AppTheme">
         <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
 
-        <item name="android:textViewStyle">@style/RobotoTextViewStyle</item>
-        <item name="android:buttonStyle">@style/RobotoButtonStyle</item>
         <item name="android:actionBarStyle">@style/BackupActionBar</item>
         <item name="listHeaderTextColor">@android:color/black</item>
     </style>
