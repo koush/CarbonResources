@@ -19,7 +19,7 @@
     <string name="downloading">Sťahovanie...</string>
     <string name="restoring">Obnovovanie...</string>
     <string name="backingup">Zálohovanie...</string>
-    <string name="restore_and_sync">Obnova a synchronizácia</string>
+    <string name="restore_and_sync">Obnoviť a synchronizovať</string>
     <string name="restore">Obnoviť</string>
     <string name="selected_for_restore">Aplikácie na obnovenie: %s</string>
     <string name="selected_for_backup">Aplikácie na zálohovanie: %s</string>
