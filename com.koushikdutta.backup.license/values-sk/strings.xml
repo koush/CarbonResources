@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Helium Prémium</string>
-
-    <string name="install_free_text">Helium Prémium je len licenčný kľúč pre Helium. Musíte nainštalovať aj bezplatnú verziu z Obchodu Play. Táto ikona zmizne, keď bude nainštalovaná bezplatná verzia. Ďakujeme, že ste Prémium používateľ! :)</string>
-    <string name="thanks">Helium Prémium je len licenčný kľúč pre Helium. Tiež musíte mať bezplatnú verziu vo Vašom zariadení. Táto ikona sa sama odstráni po budúcom reštarte Vašej domovskej aplikácie. Ďakujeme!</string>
+    <string name="install_free_text">Helium Premium je len licenčný kľúč pre Helium. Musíte nainštalovať aj bezplatnú verziu z Obchodu Play. Táto ikona zmizne, keď bude nainštalovaná bezplatná verzia. Ďakujeme, že ste prémiový používateľ! :)</string>
+    <string name="thanks">Helium Premium je len licenčný kľúč pre Helium. Musíte taktiež ponechať nainštalovanú bezplatnú verziu vo vašom zariadení. Táto ikona sa sama odstráni po budúcom reštarte vašej domovskej aplikácie. Ďakujeme!</string>
     
 </resources>
