@@ -67,7 +67,7 @@
     <string name="add_cloud_storage_account">Agrega una cuenta de almacenamiento en la nube</string>
     <string name="logout_of">¿Salir de %s?</string>
     <string name="backup_disallowed">Copia no permitida</string>
-    <string name="backup_disallowed_by_application">%1$s no permite la copia de los datos de la aplicación. Por favor deja un comentario con el desarrollador de %2$s y pidele que permita el copiar la información de la aplicación.</string>
+    <string name="backup_disallowed_by_application">%1$s no permite la copia de los datos de la aplicación. Por favor deja un comentario al desarrollador de %2$s y pídele que permita el copiar la información de la aplicación.</string>
     <string name="select_all">Seleccionar Todo</string>
     <string name="deselect_all">Deseleccionar Todo</string>
     <string name="data_only_short">(Sólo datos de la aplicación)</string>
@@ -86,12 +86,12 @@
     <string name="box">Box</string>
     <string name="last_seen">Ultima vez visto: %s</string>
     <string name="checking_enabled">Esperando por Helium Desktop en habilitar la copia de aplicaciones en tu Android...\n\nPor favor obtén Helium Desktop para tu PC:\n\n%s</string>
-    <string name="connect_pc">¡Bienvenido!\n\nPara empezar con Helium, debes habilitar la copia de aplicaciones conectandote con Helium Desktop.\n\nPor favor visita el sitio web de Helium en tu PC para instrucciones:\n\n</string>
+    <string name="connect_pc">¡Bienvenido!\n\nPara empezar con Helium, debes habilitar la copia de aplicaciones conectándote con Helium Desktop.\n\nPor favor visita el sitio web de Helium en tu PC para instrucciones:\n\n</string>
     <string name="status_adb_off">Por favor habilita la depuración por USB...</string>
     <string name="connect_usb">Por favor conecta tu Android al USB de tu PC...</string>
     <string name="enable_adb">Habilitar USB</string>
     <string name="adb_info">En tus ajustes de Android, encontrarás un ajuste para habilitar la depuración USB.\n\nHabilita el ajuste, y después presiona atrás para volver a Helium.</string>
-    <string name="connect_cancel">Las copias de las aplicaciones Android deben estar habilitadas en Helium Desktop.\n\nCancelando este proceso puede resultar en que Helium no funcione correctamente.\n\n¿Seguro que deseas cancelar?</string>
+    <string name="connect_cancel">Las copias de las aplicaciones Android deben estar habilitadas en Helium Desktop.\n\Cancelar este proceso puede resultar en que Helium no funcione correctamente.\n\n¿Seguro que deseas cancelar?</string>
     <string name="send_link">Enviar enlace</string>
     <string name="connect_success">¡Copia de aplicaciones de Android habilitada! Ahora puedes desconectarlo de tu PC.\n\nTen en cuenta: si apagas tu Android, necesitas reconectarte a Helium Desktop para habilitar la copia de aplicaciones de nuevo.</string>
     <string name="no_logins">No fue posible ingresar. No has configurado ninguna cuenta Google.</string>
@@ -112,7 +112,7 @@
     <string name="recover_purchase_error">Un error ocurrió mientras recuperábamos tu compra.</string>
     <string name="no_license_found_email">No se encontró ninguna licencia para ese email de PayPal.</string>
     <string name="hide">Esconder</string>
-    <string name="hide_message">¿Deseas esconder %s? Será movido al final de la lista de aplicaciones y no será seleccionado por "Selecionar Todo".</string>
+    <string name="hide_message">¿Deseas esconder %s? Será movido al final de la lista de aplicaciones y no será seleccionado por "Seleccionar Todo".</string>
     <string name="unhide">Mostrar</string>
     <string name="unhide_message">%s ya se muestra.</string>
     <string name="hidden">Escondido</string>
@@ -133,7 +133,7 @@
     <string name="not_admin_info">El mecanismo de copia de Android sólo funciona con el dispositivo principal del usuario.\n\nHelium se cerrará en este momento. Por favor abre Helium con el dispositivo principal.</string>
     <string name="wifi_only">Copiar sólo en Wi-Fi</string>
     <string name="plugged_in">Copiar sólo mientras se carga el dispositivo</string>
-    <string name="set_password">Establecer una constraseña</string>
+    <string name="set_password">Establecer una contraseña</string>
     <string name="desktop_backup_password_info">Un error ocurrió mientras se realizaba la copia de tu aplicación.\n\nEste error pudo haber sido causado por tener una contraseña de copia al ordenador.\n\nPor favor verifica que tu contraseña de copia al ordenador esté vacía, después presiona atrás para retornar a Helium.</string>
     <string name="scheduled_backup_complete">Copia programada completada.</string>
     <string name="scheduled_backup_error">Hubo un error durante tu copia programada.</string>
