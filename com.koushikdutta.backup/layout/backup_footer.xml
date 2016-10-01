@@ -14,7 +14,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@android:color/holo_green_dark" />
+            android:background="@color/colorAccent" />
     </LinearLayout>
 
     <LinearLayout
@@ -35,12 +35,13 @@
             android:orientation="vertical" >
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="@string/data_only" />
 
             <TextView
+                style="@style/TextAppearance.AppCompat.Body1"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:maxLines="5"
@@ -68,7 +69,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@android:color/holo_green_dark" />
+            android:background="@color/colorAccent" />
     </LinearLayout>
 
     <LinearLayout
@@ -81,12 +82,13 @@
         android:paddingTop="4dp" >
 
         <TextView
-            style="@android:style/TextAppearance.Medium"
+            style="@style/TextAppearance.AppCompat.Body2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/remember_this_list" />
 
         <EditText
+            style="@style/TextAppearance.AppCompat.Body1"
             android:id="@+id/batch"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
@@ -105,7 +107,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@android:color/holo_green_dark" />
+            android:background="@color/colorAccent" />
     </LinearLayout>
 
     <LinearLayout
@@ -116,21 +118,21 @@
         android:paddingRight="10dp"
         android:paddingTop="4dp" >
 
-        <Button
+        <android.support.v7.widget.AppCompatButton
             android:id="@+id/select_all"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/select_all" >
-        </Button>
+        </android.support.v7.widget.AppCompatButton>
 
-        <Button
+        <android.support.v7.widget.AppCompatButton
             android:id="@+id/unselect_all"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/deselect_all" >
-        </Button>
+        </android.support.v7.widget.AppCompatButton>
     </LinearLayout>
 
 </LinearLayout>

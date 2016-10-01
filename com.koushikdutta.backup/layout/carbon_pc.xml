@@ -20,7 +20,7 @@
 
         <TextView
             android:id="@+id/status"
-            style="@android:style/TextAppearance.Large"
+            style="@style/TextAppearance.AppCompat.Large"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"

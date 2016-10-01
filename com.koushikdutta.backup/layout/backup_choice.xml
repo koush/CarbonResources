@@ -6,7 +6,7 @@
     android:padding="20dp" >
 
     <TextView
-        style="@android:style/TextAppearance.Large"
+        style="@style/TextAppearance.AppCompat.Title"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:gravity="center_horizontal"
@@ -16,7 +16,7 @@
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="1dp"
-        android:background="@android:color/holo_blue_dark" />
+        android:background="@color/colorAccent" />
 
     <LinearLayout
         android:layout_width="wrap_content"
@@ -29,19 +29,19 @@
         <LinearLayout
             android:id="@+id/internal"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal"
             android:paddingBottom="10dp" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/sdcard" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -52,65 +52,65 @@
         <LinearLayout
             android:id="@+id/external_sdcard"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal"
             android:paddingBottom="10dp" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/sdcard" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="10dp"
                 android:text="@string/external_sdcard" />
         </LinearLayout>
-        
+
         <LinearLayout
             android:id="@+id/schedule_backup"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal"
             android:paddingBottom="10dp" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/ic_add_alarm_black" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
                 android:paddingLeft="10dp"
                 android:text="@string/schedule_backup" />
         </LinearLayout>
-        
+
         <LinearLayout
             android:id="@+id/drive"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal"
             android:paddingBottom="10dp" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/drive" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -121,19 +121,19 @@
         <LinearLayout
             android:id="@+id/dropbox"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal"
             android:paddingBottom="10dp" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/dropbox" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -144,18 +144,18 @@
         <LinearLayout
             android:id="@+id/box"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/box" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"
@@ -166,18 +166,18 @@
         <LinearLayout
             android:id="@+id/add_cloud_storage_account"
             android:layout_width="fill_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="48dp"
             android:orientation="horizontal" >
 
             <ImageView
-                android:layout_width="48dp"
-                android:layout_height="48dp"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
                 android:layout_gravity="center_vertical"
                 android:scaleType="fitCenter"
                 android:src="@drawable/ic_cloud" />
 
             <TextView
-                style="@android:style/TextAppearance.Medium"
+                style="@style/TextAppearance.AppCompat.Body2"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_gravity="center_vertical"

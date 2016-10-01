@@ -177,4 +177,5 @@
     <string name="days_ago">%s days ago</string>
     <string name="hours_ago">%s hours ago</string>
     <string name="minutes_ago">%s minutes ago</string>
+    <string name="lollipop_superuser">Due to changes in the Android 5.0+ security model, Helium may not able to use root to initiate a backup or restore, and will need to be activated using the Helium desktop application.</string>
 </resources>

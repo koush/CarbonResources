@@ -1,9 +1,17 @@
 <resources>
-    <style name="CarbonTheme" parent="@style/AppTheme">
-        <item name="colorPrimary">@color/action_bar_blue</item>
-        <item name="colorPrimaryDark">@color/action_bar_dark_blue</item>
-        <item name="listContentHeader">?android:attr/listSeparatorTextViewStyle</item>
-        <item name="listHeaderTextColor">@android:color/black</item>
+    <style name="CarbonTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">#61615E</item>
+        <item name="android:textColorPrimaryInverse">@android:color/white</item>
+        <item name="android:selectableItemBackground">@drawable/selectable_item_background_compat</item>
+    </style>
+
+    <style name="CarbonThemeDark" parent="ThemeOverlay.AppCompat.Dark">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
     </style>
 
     <style name="BackupOverFlow">
@@ -11,6 +19,5 @@
     </style>
 
     <style name="BackupRestoreTheme" parent="@style/CarbonTheme">
-        <item name="iconSize">@android:dimen/app_icon_size</item>
     </style>
 </resources>

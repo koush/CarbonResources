@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="wrap_content"
-    android:background="#1F1F1F"
-    android:orientation="vertical" >
+              android:layout_width="fill_parent"
+              android:layout_height="wrap_content"
+              xmlns:app="http://schemas.android.com/apk/res-auto"
+              android:background="#1F1F1F"
+              android:orientation="vertical">
 
     <LinearLayout
         android:id="@+id/internal"
@@ -14,7 +15,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@android:color/holo_green_dark" />
+            android:background="@color/colorAccent" />
 
         <LinearLayout
             android:paddingTop="4dp"
@@ -28,17 +29,16 @@
             <FrameLayout
                 android:layout_width="match_parent"
                 android:layout_height="4dp"
-                android:background="@color/action_bar_blue" />
+                android:background="@color/colorPrimary" />
         </LinearLayout>
 
         <TextView
             android:id="@+id/selected"
-            style="@android:style/TextAppearance.Medium"
+            style="@style/TextAppearance.AppCompat.Body2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:paddingLeft="10dp"
-            android:paddingRight="10dp"
-            android:textStyle="bold" />
+            android:paddingRight="10dp" />
 
         <LinearLayout
             android:layout_width="fill_parent"
@@ -79,7 +79,7 @@
                     android:paddingTop="10dp" />
             </LinearLayout>
 
-            <Button
+            <android.support.v7.widget.AppCompatButton
                 android:enabled="false"
                 android:id="@+id/backup_restore_button"
                 android:layout_width="wrap_content"

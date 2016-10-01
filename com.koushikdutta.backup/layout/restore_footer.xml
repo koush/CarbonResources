@@ -14,7 +14,7 @@
         <FrameLayout
             android:layout_width="match_parent"
             android:layout_height="1dp"
-            android:background="@color/action_bar_blue" />
+            android:background="@color/colorPrimary" />
     </LinearLayout>
 
     <LinearLayout
@@ -25,21 +25,21 @@
         android:paddingRight="10dp"
         android:paddingTop="4dp" >
 
-        <Button
+        <android.support.v7.widget.AppCompatButton
             android:id="@+id/select_all"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/select_all" >
-        </Button>
+        </android.support.v7.widget.AppCompatButton>
 
-        <Button
+        <android.support.v7.widget.AppCompatButton
             android:id="@+id/unselect_all"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/deselect_all" >
-        </Button>
+        </android.support.v7.widget.AppCompatButton>
     </LinearLayout>
 
 </LinearLayout>
